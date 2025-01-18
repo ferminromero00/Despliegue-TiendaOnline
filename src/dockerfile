@@ -28,12 +28,12 @@ RUN sed -i 's/require("json-server")/require(".\/node_modules\/json-server")/' /
 RUN rm -rf /var/www/html/*
 
 # Clonar el repositorio
-RUN git clone https://github.com/ferminromero00/DESPLIEGUE-TIENDA-ONLINE.git /var/www/html/DESPLIEGUE-TIENDA-ONLINE
+RUN git clone https://github.com/ferminromero00/Despliegue-TiendaOnline.git /var/www/html/Despliegue-TiendaOnline
 
 # Mover los archivos necesarios
-RUN mv /var/www/html/DESPLIEGUE-TIENDA-ONLINE/src /var/www/html/ && \
-    mv /var/www/html/DESPLIEGUE-TIENDA-ONLINE/index.html /var/www/html/ && \
-    rm -rf /var/www/html/DESPLIEGUE-TIENDA-ONLINE
+RUN mv /var/www/html/Despliegue-TiendaOnline/src /var/www/html/ && \
+    mv /var/www/html/Despliegue-TiendaOnline/index.html /var/www/html/ && \
+    rm -rf /var/www/html/Despliegue-TiendaOnline
 
 # Configurar permisos para la web
 RUN chown -R apache:apache /var/www/html && \

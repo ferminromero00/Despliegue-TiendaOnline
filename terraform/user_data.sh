@@ -8,13 +8,13 @@ sudo mkdir /var/json
 sudo mkdir /var/web
 
 cd /var
-sudo git clone https://github.com/ferminromero00/DESPLIEGUE-TIENDA-ONLINE.git
-sudo mv DESPLIEGUE-TIENDA-ONLINE/src/dockerfile web
-sudo mv DESPLIEGUE-TIENDA-ONLINE/data/miinfo.json web
-sudo mv DESPLIEGUE-TIENDA-ONLINE/data/start.sh web
-sudo mv DESPLIEGUE-TIENDA-ONLINE/src/js/https-server.js web
-sudo mv DESPLIEGUE-TIENDA-ONLINE/src/js/package.json web
-sudo rm -r DESPLIEGUE-TIENDA-ONLINE
+sudo git clone https://github.com/ferminromero00/Despliegue-TiendaOnline.git
+sudo mv Despliegue-TiendaOnline/src/dockerfile web
+sudo mv Despliegue-TiendaOnline/data/miinfo.json web
+sudo mv Despliegue-TiendaOnline/data/start.sh web
+sudo mv Despliegue-TiendaOnline/src/js/https-server.js web
+sudo mv Despliegue-TiendaOnline/src/js/package.json web
+sudo rm -r Despliegue-TiendaOnline
 
 #Actualizar IP del domninio
 sudo curl https://api.dnsexit.com/dns/ud/?apikey=68OTW9l2eMS67w7jw6bQzm4hh91sVw -d host=tienda-videojuegos.work.gd
