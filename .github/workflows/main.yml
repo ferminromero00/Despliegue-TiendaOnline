@@ -1,0 +1,150 @@
+
+name: Desplegar-Destruir
+
+permissions: 
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Selecciona una acción: deploy o destroy"
+        required: true
+        default: "deploy"
+        type: choice
+        options:
+          - deploy
+          - destroy
+
+jobs:
+  deploy:
+    if: ${{ github.event.inputs.action == 'deploy' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.1
+
+      - name: Configurar credenciales AWS
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-session-token: ${{ secrets.AWS_SESSION_TOKEN }}
+          aws-region: "us-east-1"
+
+      - name: Configurar Terraform
+        uses: hashicorp/setup-terraform@v3
+
+      - name: Ejecutar pruebas unitarias
+        run: |
+          npm install
+          npm test
+
+      - name: Inicializar y Planificar Terraform
+        run: |
+          cd terraform
+          terraform init
+          terraform plan
+
+      - name: Aplicar Terraform
+        run: |
+          cd terraform
+          terraform apply -auto-approve
+
+      - name: Refrescar estado de Terraform
+        run: |
+            cd terraform
+            terraform refresh
+            
+      - name: Subir estado de Terraform a S3
+        run: aws s3 cp terraform/terraform.tfstate s3://bucketfermin/terraform.tfstate
+
+      - name: Obtener IP pública
+        id: get-ip
+        run: |
+                cd terraform
+                public_ip=$(terraform output -raw instance_public_ip)
+                echo "public_ip=${public_ip}"
+                echo "public_ip=${public_ip}" >> $GITHUB_ENV
+    
+      - name: Actualizar config.js con la nueva IP
+        run: |
+                cd src/js
+                if [ -f config.js ]; then
+                  sed -i "s|export const URL = \".*\"|export const URL = \"${{ env.public_ip }}\"|" config.js
+                fi
+
+      - name: JSDoc
+        run: sudo npm install -g jsdoc
+
+      - name: Generar documentación con JSDoc
+        run: |
+              cd src
+              sudo rm -rf docs/*
+              sudo chmod -R 755 docs
+              sudo jsdoc js/login.js js/paginaPrincipal.js -d docs
+
+      - name: Transferir certificados a /var
+        env:
+              SSL_CERTIFICATE: ${{ secrets.CERTIFICATE }}
+              SSL_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+              SSL_CA_BUNDLE: ${{ secrets.CA_BUNDLE }}
+              EC2_USER: ec2-user
+              EC2_IP: ${{ env.public_ip }}
+        run: |
+              echo "${{ secrets.SSH_KEY }}" > key.pem
+              chmod 600 key.pem
+          
+              # Crear archivos temporales con los certificados
+              echo "$SSL_CERTIFICATE" > certificate.crt
+              echo "$SSL_PRIVATE_KEY" > private.key
+              echo "$SSL_CA_BUNDLE" > ca_bundle.crt
+          
+              # Subir los archivos a un directorio accesible (por ejemplo, /home/ec2-user)
+              scp -o StrictHostKeyChecking=no -i key.pem certificate.crt $EC2_USER@$EC2_IP:/home/$EC2_USER/certificate.crt
+              scp -o StrictHostKeyChecking=no -i key.pem private.key $EC2_USER@$EC2_IP:/home/$EC2_USER/private.key
+              scp -o StrictHostKeyChecking=no -i key.pem ca_bundle.crt $EC2_USER@$EC2_IP:/home/$EC2_USER/ca_bundle.crt
+          
+              # Mover los archivos al directorio /var usando sudo
+              ssh -o StrictHostKeyChecking=no -i key.pem $EC2_USER@$EC2_IP <<EOF
+                sudo mv /home/$EC2_USER/certificate.crt /var/certificate.crt
+                sudo mv /home/$EC2_USER/private.key /var/private.key
+                sudo mv /home/$EC2_USER/ca_bundle.crt /var/ca_bundle.crt
+                sudo chmod 600 /var/private.key
+                sudo chmod 644 /var/certificate.crt /var/ca_bundle.crt
+              EOF
+          
+              # Limpiar archivos temporales
+              rm key.pem certificate.crt private.key ca_bundle.crt
+          
+
+  destroy:
+    if: ${{ github.event.inputs.action == 'destroy' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.1
+
+      - name: Checkout
+        uses: actions/checkout@v4.2.1
+
+      - name: Configurar credenciales AWS
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-session-token: ${{ secrets.AWS_SESSION_TOKEN }}
+          aws-region: "us-east-1"
+
+      - name: Configurar Terraform
+        uses: hashicorp/setup-terraform@v3
+
+
+      - name: Descargar estado de Terraform desde S3
+        run: aws s3 cp s3://bucketfermin/terraform.tfstate terraform/terraform.tfstate
+
+      - name: Inicializar y Destruir Terraform
+        run: |
+          cd terraform
+          terraform init
+          terraform destroy -auto-approve
