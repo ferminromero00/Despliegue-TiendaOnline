@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;800&display=swap');
+
+/* General */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family-primary);
+}
+
+:root {
+    --font-family-primary: 'EB Garamond', serif;
+    --font-weight-regular: 400;
+    --font-weight-bold: 800;
+}
+
+/* Caja principal */
+.caja_login {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('https://i.pinimg.com/originals/e7/fb/ab/e7fbab03e1a8bec98855576aa767cb94.jpg') no-repeat center center fixed;
+    background-size:cover;
+}
+
+/* Formulario */
+.login__formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+/* Tabla del formulario */
+.formulario__table {
+    width: 100%;
+    text-align: center;
+    border-spacing: 1.5rem 1rem;
+}
+
+label {
+    font-weight: var(--font-weight-bold);
+    font-size: 1.5rem;    
+    color: white;
+}
+
+input {
+    width: 80%;
+    height: 2.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.3rem;
+    padding: 1rem 1.6rem;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    text-align: center;
+    border-bottom: 5px solid white;
+}
+
+.botones button {
+    width: 80%;
+    padding: 0.8rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    font-weight: var(--font-weight-regular);
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin: 0.5rem 0;
+}
+
+.botones button:hover {
+    background-color: #555;
+}
+
+.mensaje {
+    font-size: 1.3rem;
+    font-weight: var(--font-weight-bold);
+    color: white;
+}

@@ -1,0 +1,1 @@
+export const URL = "tienda-videojuegos.work.gd."

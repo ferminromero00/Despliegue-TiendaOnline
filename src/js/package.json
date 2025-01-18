@@ -1,0 +1,10 @@
+{
+    "name": "proyecto-tienda-online",
+    "version": "1.0.0",
+    "dependencies": {
+      "json-server": "^0.17.4",
+      "express": "^4.18.2",
+      "https": "^1.0.0",
+      "fs": "0.0.1-security"
+    }
+  }

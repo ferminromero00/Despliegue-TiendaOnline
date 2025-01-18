@@ -1,0 +1,5765 @@
+{
+  "games": [
+    {
+      "info": {
+        "title": "Insane 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35320/capsule_616x353.jpg?t=1572519365",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "1"
+    },
+    {
+      "info": {
+        "title": "Evochron Mercenary",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/71000/capsule_616x353.jpg?t=1666983155",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "6.24"
+      },
+      "id": "2"
+    },
+    {
+      "info": {
+        "title": "Unstoppable Gorg",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18120/capsule_616x353.jpg?t=1573632254",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "3"
+    },
+    {
+      "info": {
+        "title": "Storm in a Teacup",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/104020/capsule_616x353.jpg?t=1682413571",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "4"
+    },
+    {
+      "info": {
+        "title": "Sonic the Hedgehog 4 - Episode I",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202530/capsule_616x353.jpg?t=1603129605",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.90"
+      },
+      "id": "5"
+    },
+    {
+      "info": {
+        "title": "The Blackwell Legacy",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80330/capsule_616x353.jpg?t=1728040271",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "10"
+    },
+    {
+      "info": {
+        "title": "Blackwell Unbound",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80340/capsule_616x353.jpg?t=1728037257",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "11"
+    },
+    {
+      "info": {
+        "title": "Blackwell Convergence",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80350/capsule_616x353.jpg?t=1728036776",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "12"
+    },
+    {
+      "info": {
+        "title": "Blackwell Deception",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80360/capsule_616x353.jpg?t=1728037010",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "13"
+    },
+    {
+      "info": {
+        "title": "Saints Row: The Third",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55230/capsule_616x353.jpg?t=1725434603",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "14"
+    },
+    {
+      "info": {
+        "title": "Choplifter HD",
+        "thumb": "https://sttc.gamersgate.com/images/product/choplifter-hd/cover-180-f25f5c.jpg",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.50"
+      },
+      "id": "15"
+    },
+    {
+      "info": {
+        "title": "The Darkness II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/67370/capsule_616x353.jpg?t=1728674715",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "16"
+    },
+    {
+      "info": {
+        "title": "Fable - The Lost Chapters",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204030/capsule_616x353.jpg?t=1577393131",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "17"
+    },
+    {
+      "info": {
+        "title": "Assassin's Creed Revelations",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201870/capsule_616x353.jpg?t=1698435866",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "4.25"
+      },
+      "id": "18"
+    },
+    {
+      "info": {
+        "title": "Jagged Alliance - Back in Action",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57740/capsule_616x353.jpg?t=1725004826",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "19"
+    },
+    {
+      "info": {
+        "title": "LEGO Harry Potter: Years 5-7",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204120/capsule_616x353.jpg?t=1728579650",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "20"
+    },
+    {
+      "info": {
+        "title": "Sins of a Solar Empire: Trinity",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201290/capsule_616x353.jpg?t=1725454664",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.59"
+      },
+      "id": "21"
+    },
+    {
+      "info": {
+        "title": "Galactic Civilizations II: Ultimate Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202200/capsule_616x353.jpg?t=1726252223",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.24"
+      },
+      "id": "22"
+    },
+    {
+      "info": {
+        "title": "Demigod",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202710/capsule_616x353.jpg?t=1713391131",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "23"
+    },
+    {
+      "info": {
+        "title": "Dungeon Defenders",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65800/capsule_616x353.jpg?t=1730826022",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "24"
+    },
+    {
+      "info": {
+        "title": "King Arthur II: The Role-Playing Wargame",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24480/capsule_616x353.jpg?t=1669816972",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.66"
+      },
+      "id": "25"
+    },
+    {
+      "info": {
+        "title": "From Dust",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33460/capsule_616x353.jpg?t=1679996580",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.15"
+      },
+      "id": "26"
+    },
+    {
+      "info": {
+        "title": "Earth Defense Force: Insect Armageddon",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/23530/capsule_616x353.jpg?t=1478042684",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.75"
+      },
+      "id": "27"
+    },
+    {
+      "info": {
+        "title": "Portal 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/capsule_616x353.jpg?t=1725487730",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "28"
+    },
+    {
+      "info": {
+        "title": "Satazius",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203990/capsule_616x353.jpg?t=1671619660",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "2.03"
+      },
+      "id": "29"
+    },
+    {
+      "info": {
+        "title": "Serious Sam 3: BFE",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41070/capsule_616x353.jpg?t=1728688460",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "30"
+    },
+    {
+      "info": {
+        "title": "Terraria",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105600/capsule_616x353.jpg?t=1731252354",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "31"
+    },
+    {
+      "info": {
+        "title": "Left 4 Dead 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/capsule_616x353.jpg?t=1731457037",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "32"
+    },
+    {
+      "info": {
+        "title": "Total War: SHOGUN 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201270/capsule_616x353.jpg?t=1724864318",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "33"
+    },
+    {
+      "info": {
+        "title": "Counter-Strike: Source",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/240/capsule_616x353.jpg?t=1729702412",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "34"
+    },
+    {
+      "info": {
+        "title": "PAYDAY The Heist",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24240/capsule_616x353.jpg?t=1728043170",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "35"
+    },
+    {
+      "info": {
+        "title": "Bastion",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107100/capsule_616x353.jpg?t=1729113932",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.24"
+      },
+      "id": "36"
+    },
+    {
+      "info": {
+        "title": "Real Warfare 1242",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46350/capsule_616x353.jpg?t=1681219608",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.60"
+      },
+      "id": "37"
+    },
+    {
+      "info": {
+        "title": "Fractal: Make Blooms Not War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/61310/capsule_616x353.jpg?t=1732577911",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.04"
+      },
+      "id": "38"
+    },
+    {
+      "info": {
+        "title": "Orcs Must Die!",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/102600/capsule_616x353.jpg?t=1734470054",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "39"
+    },
+    {
+      "info": {
+        "title": "LIMBO",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/capsule_616x353.jpg?t=1726749481",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "40"
+    },
+    {
+      "info": {
+        "title": "SkyDrift",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91100/capsule_616x353.jpg?t=1729074262",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "41"
+    },
+    {
+      "info": {
+        "title": "Half-Life 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220/951c6aca52bf32d7c95e9f8b3c04fa95e9a735ea/capsule_616x353.jpg?t=1732327147",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "42"
+    },
+    {
+      "info": {
+        "title": "Sid Meier's Civilization V",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8930/capsule_616x353.jpg?t=1724341158",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "4.49"
+      },
+      "id": "43"
+    },
+    {
+      "info": {
+        "title": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15560/capsule_616x353.jpg?t=1581730007",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "44"
+    },
+    {
+      "info": {
+        "title": "The Sims 3",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47890/capsule_616x353.jpg?t=1728678220",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "45"
+    },
+    {
+      "info": {
+        "title": "Grotesque Tactics 2  Dungeons and Donuts",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46570/capsule_616x353.jpg?t=1717596746",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.69"
+      },
+      "id": "46"
+    },
+    {
+      "info": {
+        "title": "The Binding of Isaac",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/113200/capsule_616x353.jpg?t=1643480517",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "47"
+    },
+    {
+      "info": {
+        "title": "RACE Injection",
+        "thumb": "https://sttc.gamersgate.com/images/product/race-injection/cover-180-3a93e9.jpg",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.94"
+      },
+      "id": "48"
+    },
+    {
+      "info": {
+        "title": "Real Warfare 2: Northern Crusades",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202860/capsule_616x353.jpg?t=1681219572",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.75"
+      },
+      "id": "49"
+    },
+    {
+      "info": {
+        "title": "Half-Life",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70/25bee0c9572a4f0dc4de6c773c54d067a4204760/capsule_616x353.jpg?t=1732327059",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "51"
+    },
+    {
+      "info": {
+        "title": "Gemini Rue",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80310/capsule_616x353.jpg?t=1728037897",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.69"
+      },
+      "id": "52"
+    },
+    {
+      "info": {
+        "title": "RAGE",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9200/capsule_616x353.jpg?t=1706806214",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.29"
+      },
+      "id": "53"
+    },
+    {
+      "info": {
+        "title": "Sideway New York",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200190/capsule_616x353.jpg?t=1572533500",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "54"
+    },
+    {
+      "info": {
+        "title": "Fallout: New Vegas",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22380/capsule_616x353.jpg?t=1665072891",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.10"
+      },
+      "id": "55"
+    },
+    {
+      "info": {
+        "title": "Portal",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400/capsule_616x353.jpg?t=1726252771",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "56"
+    },
+    {
+      "info": {
+        "title": "Fallout 3: Game of the Year Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22370/capsule_616x353.jpg?t=1732208097",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.85"
+      },
+      "id": "57"
+    },
+    {
+      "info": {
+        "title": "Airline Tycoon 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_616x353.jpg?t=1730279688",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "58"
+    },
+    {
+      "info": {
+        "title": "Warhammer 40,000: Space Marine",
+        "thumb": "https://images.gog-statics.com/47af05e81a0678522d0f19514a2f4a6b69d52c00392fe1925ea356ac5b45b7d8_product_tile_117h.webp",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "9.99"
+      },
+      "id": "59"
+    },
+    {
+      "info": {
+        "title": "Amnesia: The Dark Descent",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57300/ce0f84d25ace136096191d215a5d49c57d832999/capsule_616x353.jpg?t=1727954563",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "60"
+    },
+    {
+      "info": {
+        "title": "Counter-Strike",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10/capsule_616x353.jpg?t=1729702322",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "61"
+    },
+    {
+      "info": {
+        "title": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/900883/capsule_616x353.jpg?t=1716918014",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "62"
+    },
+    {
+      "info": {
+        "title": "Star Wars: Knights of the Old Republic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32370/capsule_616x353.jpg?t=1681144833",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.62"
+      },
+      "id": "63"
+    },
+    {
+      "info": {
+        "title": "Call of Duty: Black Ops",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/capsule_616x353.jpg?t=1654809667",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "19.59"
+      },
+      "id": "65"
+    },
+    {
+      "info": {
+        "title": "Supreme Commander",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9350/capsule_616x353.jpg?t=1709632244",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.59"
+      },
+      "id": "66"
+    },
+    {
+      "info": {
+        "title": "Assassins Creed Brotherhood",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48190/capsule_616x353.jpg?t=1681861086",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "3.87"
+      },
+      "id": "67"
+    },
+    {
+      "info": {
+        "title": "Dragon Age: Origins - Ultimate Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47810/capsule_616x353.jpg?t=1706729390",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "68"
+    },
+    {
+      "info": {
+        "title": "Left 4 Dead",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/500/capsule_616x353.jpg?t=1729702469",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "69"
+    },
+    {
+      "info": {
+        "title": "Rock of Ages",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22230/capsule_616x353.jpg?t=1667563022",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "71"
+    },
+    {
+      "info": {
+        "title": "A Game of Thrones - Genesis",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58550/capsule_616x353.jpg?t=1562029606",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "72"
+    },
+    {
+      "info": {
+        "title": "Company of Heroes",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228200/capsule_616x353.jpg?t=1711458818",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.57"
+      },
+      "id": "73"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: Alibi in Ashes",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202670/capsule_616x353.jpg?t=1734459899",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.74"
+      },
+      "id": "74"
+    },
+    {
+      "info": {
+        "title": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22320/capsule_616x353.jpg?t=1569959880",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "3.37"
+      },
+      "id": "75"
+    },
+    {
+      "info": {
+        "title": "Take On Helicopters",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65730/capsule_616x353.jpg?t=1725542993",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "76"
+    },
+    {
+      "info": {
+        "title": "PT Boats: South Gambit",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10260/capsule_616x353.jpg?t=1447354640",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.04"
+      },
+      "id": "77"
+    },
+    {
+      "info": {
+        "title": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22330/capsule_616x353.jpg?t=1732208105",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "78"
+    },
+    {
+      "info": {
+        "title": "Sid Meier's Civilization IV",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_616x353.jpg?t=1724341287",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "79"
+    },
+    {
+      "info": {
+        "title": "inMomentum",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/110400/capsule_616x353.jpg?t=1447354843",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "80"
+    },
+    {
+      "info": {
+        "title": "BioShock",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_616x353.jpg?t=1730172622",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "4.60"
+      },
+      "id": "81"
+    },
+    {
+      "info": {
+        "title": "Red Orchestra 2: Heroes of Stalingrad",
+        "thumb": "https://sttc.gamersgate.com/images/product/red-orchestra-2-heroes-of-stalingrad/cover-180-f8237a.jpg",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.86"
+      },
+      "id": "82"
+    },
+    {
+      "info": {
+        "title": "Renegade Ops",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99300/capsule_616x353.jpg?t=1614779423",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.25"
+      },
+      "id": "83"
+    },
+    {
+      "info": {
+        "title": "PT Boats: Knights of the Sea",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10250/capsule_616x353.jpg?t=1447354639",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.04"
+      },
+      "id": "84"
+    },
+    {
+      "info": {
+        "title": "Kohan: Immortal Sovereigns",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/97110/capsule_616x353.jpg?t=1447354554",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "85"
+    },
+    {
+      "info": {
+        "title": "Global Ops: Commando Libya",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200020/capsule_616x353.jpg?t=1726640793",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "86"
+    },
+    {
+      "info": {
+        "title": "Dead Mountaineer's Hotel",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10230/capsule_616x353.jpg?t=1447354813",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.59"
+      },
+      "id": "87"
+    },
+    {
+      "info": {
+        "title": "Super Meat Boy",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40800/capsule_616x353.jpg?t=1700669950",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "88"
+    },
+    {
+      "info": {
+        "title": "A Stroke of Fate: Operation Valkyrie",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10240/capsule_616x353.jpg?t=1447354813",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.04"
+      },
+      "id": "89"
+    },
+    {
+      "info": {
+        "title": "Supreme Commander: Forged Alliance",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9420/capsule_616x353.jpg?t=1592488757",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.59"
+      },
+      "id": "90"
+    },
+    {
+      "info": {
+        "title": "Call of Duty: World at War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10090/capsule_616x353.jpg?t=1654830025",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "9.79"
+      },
+      "id": "91"
+    },
+    {
+      "info": {
+        "title": "Resident Evil 5",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21690/capsule_616x353.jpg?t=1712193350",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "4.65"
+      },
+      "id": "92"
+    },
+    {
+      "info": {
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35140/capsule_616x353.jpg?t=1702934705",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "93"
+    },
+    {
+      "info": {
+        "title": "The Haunted: Hells Reach",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/43190/capsule_616x353.jpg?t=1678983225",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.79"
+      },
+      "id": "94"
+    },
+    {
+      "info": {
+        "title": "Dead Rising 2: Off the Record",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45770/capsule_616x353.jpg?t=1693277274",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "3.78"
+      },
+      "id": "95"
+    },
+    {
+      "info": {
+        "title": "ArcaniA: Fall of Setarrif",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65610/capsule_616x353.jpg?t=1662035973",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "96"
+    },
+    {
+      "info": {
+        "title": "Disciples III - Resurrection",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200670/capsule_616x353.jpg?t=1730283861",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.89"
+      },
+      "id": "97"
+    },
+    {
+      "info": {
+        "title": "Universe Sandbox",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230290/capsule_616x353.jpg?t=1734381546",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "98"
+    },
+    {
+      "info": {
+        "title": "Costume Quest",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115100/capsule_616x353.jpg?t=1727388542",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "99"
+    },
+    {
+      "info": {
+        "title": "Lightfish",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/116120/capsule_616x353.jpg?t=1667372807",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.69"
+      },
+      "id": "100"
+    },
+
+    {
+      "info": {
+        "title": "Serious Sam: The Random Encounter",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201480/capsule_616x353.jpg?t=1659054358",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "102"
+    },
+    {
+      "info": {
+        "title": "Worms Crazy Golf",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70620/capsule_616x353.jpg?t=1596810135",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "103"
+    },
+    {
+      "info": {
+        "title": "Star Wars Jedi Knight: Dark Forces II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32380/capsule_616x353.jpg?t=1586466719",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.01"
+      },
+      "id": "104"
+    },
+    {
+      "info": {
+        "title": "Nuclear Dawn",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17710/capsule_616x353.jpg?t=1705881554",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.85"
+      },
+      "id": "105"
+    },
+    {
+      "info": {
+        "title": "Worms Ultimate Mayhem",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70600/capsule_616x353.jpg?t=1728996848",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.91"
+      },
+      "id": "106"
+    },
+    {
+      "info": {
+        "title": "QUAKE",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2310/capsule_616x353.jpg?t=1691683243",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.17"
+      },
+      "id": "107"
+    },
+    {
+      "info": {
+        "title": "Fallout 3",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22300/capsule_616x353.jpg?t=1732208474",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.10"
+      },
+      "id": "108"
+    },
+    {
+      "info": {
+        "title": "Worms Blast",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70650/capsule_616x353.jpg?t=1596808502",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.97"
+      },
+      "id": "109"
+    },
+    {
+      "info": {
+        "title": "Worms",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70640/capsule_616x353.jpg?t=1728996846",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.79"
+      },
+      "id": "110"
+    },
+    {
+      "info": {
+        "title": "Smash Cars",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/111300/capsule_616x353.jpg?t=1447354869",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.00"
+      },
+      "id": "111"
+    },
+    {
+      "info": {
+        "title": "Dead Space 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47780/capsule_616x353.jpg?t=1674071175",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "113"
+    },
+    {
+      "info": {
+        "title": "Worms Pinball",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70660/capsule_616x353.jpg?t=1596808548",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.79"
+      },
+      "id": "114"
+    },
+    {
+      "info": {
+        "title": "Alien Zombie Megadeath",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/110610/capsule_616x353.jpg?t=1447354787",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "115"
+    },
+    {
+      "info": {
+        "title": "Medieval II: Total War Kingdoms",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4780/capsule_616x353.jpg?t=1605830263",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "116"
+    },
+    {
+      "info": {
+        "title": "Just Cause 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8190/e90146c1858e5d8ebd2aa1abdcc8e2895c1d2b19/capsule_616x353.jpg?t=1728396849",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "117"
+    },
+    {
+      "info": {
+        "title": "Dungeons of Dredmor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98800/capsule_616x353.jpg?t=1560612990",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "118"
+    },
+    {
+      "info": {
+        "title": "Killing Floor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1250/capsule_616x353.jpg?t=1726777771",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "119"
+    },
+    {
+      "info": {
+        "title": "Star Wars Jedi Knight II: Jedi Outcast",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6030/capsule_616x353.jpg?t=1586465683",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.62"
+      },
+      "id": "120"
+    },
+    {
+      "info": {
+        "title": "BioShock 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_616x353.jpg?t=1730174099",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "122"
+    },
+    {
+      "info": {
+        "title": "Torchlight",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41500/capsule_616x353.jpg?t=1712608874",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "123"
+    },
+    {
+      "info": {
+        "title": "The Witcher: Enhanced Edition Director's Cut",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/capsule_616x353.jpg?t=1729242001",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.39"
+      },
+      "id": "124"
+    },
+    {
+      "info": {
+        "title": "Fate of the World: Tipping Point",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/901776/capsule_616x353.jpg?t=1447354767",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.89"
+      },
+      "id": "125"
+    },
+    {
+      "info": {
+        "title": "Off-Road Drive",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200230/capsule_616x353.jpg?t=1681220124",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.56"
+      },
+      "id": "126"
+    },
+    {
+      "info": {
+        "title": "Dungeon Siege",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39190/capsule_616x353.jpg?t=1709630517",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.78"
+      },
+      "id": "127"
+    },
+    {
+      "info": {
+        "title": "Kohan II: Kings of War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/97130/capsule_616x353.jpg?t=1447354558",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "128"
+    },
+    {
+      "info": {
+        "title": "Counter-Strike: Condition Zero",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80/capsule_616x353.jpg?t=1729702001",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "129"
+    },
+    {
+      "info": {
+        "title": "SPORE",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17390/capsule_616x353.jpg?t=1642702281",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "130"
+    },
+    {
+      "info": {
+        "title": "Plants vs. Zombies GOTY Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3590/capsule_616x353.jpg?t=1615390608",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "131"
+    },
+    {
+      "info": {
+        "title": "Braid",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26800/capsule_616x353.jpg?t=1734027955",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "132"
+    },
+    {
+      "info": {
+        "title": "Frozen Synapse",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98200/capsule_616x353.jpg?t=1458256347",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "133"
+    },
+    {
+      "info": {
+        "title": "Puzzler World 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200130/capsule_616x353.jpg?t=1552476776",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.37"
+      },
+      "id": "134"
+    },
+    {
+      "info": {
+        "title": "SpaceChem",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92800/capsule_616x353.jpg?t=1667072182",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "135"
+    },
+    {
+      "info": {
+        "title": "Company of Heroes: Opposing Fronts",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9340/capsule_616x353.jpg?t=1711547477",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "136"
+    },
+    {
+      "info": {
+        "title": "AudioSurf",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12900/capsule_616x353.jpg?t=1568404797",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "137"
+    },
+    {
+      "info": {
+        "title": "Dungeons - The Dark Lord",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200550/capsule_616x353.jpg?t=1730284914",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.81"
+      },
+      "id": "138"
+    },
+    {
+      "info": {
+        "title": "Sid Meier's Civilization III Complete",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3910/capsule_616x353.jpg?t=1569013660",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.98"
+      },
+      "id": "139"
+    },
+    {
+      "info": {
+        "title": "Max Payne",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12140/capsule_616x353.jpg?t=1709651633",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "140"
+    },
+    {
+      "info": {
+        "title": "Deus Ex: Game of the Year Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6910/capsule_616x353.jpg?t=1726596757",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.78"
+      },
+      "id": "141"
+    },
+    {
+      "info": {
+        "title": "Fallout: A Post Nuclear Role Playing Game",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38400/capsule_616x353.jpg?t=1572025441",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "143"
+    },
+    {
+      "info": {
+        "title": "Magicka",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42910/capsule_616x353.jpg?t=1726497076",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.66"
+      },
+      "id": "144"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Splinter Cell Chaos Theory",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13570/capsule_616x353.jpg?t=1734363533",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.10"
+      },
+      "id": "145"
+    },
+    {
+      "info": {
+        "title": "F.E.A.R.",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21090/capsule_616x353.jpg?t=1681232225",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.15"
+      },
+      "id": "147"
+    },
+    {
+      "info": {
+        "title": "Solar 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/97000/capsule_616x353.jpg?t=1630650368",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "148"
+    },
+    {
+      "info": {
+        "title": "Air Conflicts: Secret Wars",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/95900/capsule_616x353.jpg?t=1447354357",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "149"
+    },
+    {
+      "info": {
+        "title": "Space Pirates and Zombies",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107200/capsule_616x353.jpg?t=1719604863",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "150"
+    },
+    {
+      "info": {
+        "title": "Robin Hood: The Legend of Sherwood",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46560/capsule_616x353.jpg?t=1710346979",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.72"
+      },
+      "id": "151"
+    },
+    {
+      "info": {
+        "title": "Kohan: Ahriman's Gift",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/97120/capsule_616x353.jpg?t=1447354555",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "152"
+    },
+    {
+      "info": {
+        "title": "World of Goo",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22000/capsule_616x353.jpg?t=1587578439",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "153"
+    },
+    {
+      "info": {
+        "title": "Demolition Inc.",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98600/capsule_616x353.jpg?t=1447354653",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.62"
+      },
+      "id": "154"
+    },
+    {
+      "info": {
+        "title": "Glowfish",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/60350/capsule_616x353.jpg?t=1688474083",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "155"
+    },
+    {
+      "info": {
+        "title": "Blocks That Matter",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/111800/capsule_616x353.jpg?t=1729349014",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "157"
+    },
+    {
+      "info": {
+        "title": "King Arthur: Fallen Champions",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24460/capsule_616x353.jpg?t=1710236775",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "158"
+    },
+    {
+      "info": {
+        "title": "The Clockwork Man: The Hidden World",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/111010/capsule_616x353.jpg?t=1447354724",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "159"
+    },
+    {
+      "info": {
+        "title": "Sengoku",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/73210/capsule_616x353.jpg?t=1615974016",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "161"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Splinter Cell",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13560/capsule_616x353.jpg?t=1680011054",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.07"
+      },
+      "id": "162"
+    },
+    {
+      "info": {
+        "title": "Bunch of Heroes",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/111400/capsule_616x353.jpg?t=1569422377",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "163"
+    },
+    {
+      "info": {
+        "title": "Men of War: Vietnam",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63940/capsule_616x353.jpg?t=1721725117",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.79"
+      },
+      "id": "164"
+    },
+    {
+      "info": {
+        "title": "Alien Hallway",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98900/capsule_616x353.jpg?t=1731074846",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.37"
+      },
+      "id": "165"
+    },
+    {
+      "info": {
+        "title": "Jamestown",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/377950/capsule_616x353.jpg?t=1581376067",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "166"
+    },
+    {
+      "info": {
+        "title": "The Longest Journey",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6310/capsule_616x353.jpg?t=1675333329",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.98"
+      },
+      "id": "167"
+    },
+    {
+      "info": {
+        "title": "Hard Reset",
+        "thumb": "https://images.greenmangaming.com/1c10db37568b47e0a3e49f9778914031/fa89fce68a59402988f63de01d88dea6.jpg",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.24"
+      },
+      "id": "168"
+    },
+    {
+      "info": {
+        "title": "Monkey Island 2 Special Edition: LeChucks Revenge",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32460/capsule_616x353.jpg?t=1657725463",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.93"
+      },
+      "id": "169"
+    },
+    {
+      "info": {
+        "title": "Freedom Force",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8880/capsule_616x353.jpg?t=1569012854",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "170"
+    },
+    {
+      "info": {
+        "title": "Civilization IV: Warlords",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3990/capsule_616x353.jpg?t=1573064463",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "171"
+    },
+    {
+      "info": {
+        "title": "Return to Castle Wolfenstein",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9010/capsule_616x353.jpg?t=1664380265",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.17"
+      },
+      "id": "172"
+    },
+    {
+      "info": {
+        "title": "Railroad Tycoon II Platinum",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7620/capsule_616x353.jpg?t=1569013478",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "173"
+    },
+    {
+      "info": {
+        "title": "Crysis Warhead",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17330/capsule_616x353.jpg?t=1734377275",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "3.99"
+      },
+      "id": "174"
+    },
+    {
+      "info": {
+        "title": "DOOM 3",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/208200/capsule_616x353.jpg?t=1664292843",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.02"
+      },
+      "id": "175"
+    },
+    {
+      "info": {
+        "title": "Sid Meier's Civilization IV: Colonization",
+        "thumb": "https://shared.steamstatic.com/store_item_assets/steam/apps/16810/header.jpg?t=1573064277",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "4.99"
+      },
+      "id": "176"
+    },
+    {
+      "info": {
+        "title": "Call of Duty: United Offensive",
+        "thumb": "https://i.ytimg.com/vi/vbtGWONpLsk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcNAEavsBmZ5h6IXHcmv7zNoAWZw",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "9.79"
+      },
+      "id": "177"
+    },
+    {
+      "info": {
+        "title": "Guild Wars Trilogy",
+        "thumb": "https://gocdkeys.es/images/captures/guild-wars-trilogy-pc-cd-key-4.jpg",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "7.49"
+      },
+      "id": "178"
+    },
+    {
+      "info": {
+        "title": "Fallout 2: A Post Nuclear Role Playing Game",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38410/capsule_616x353.jpg?t=1572025546",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "179"
+    },
+    {
+      "info": {
+        "title": "Star Wars Battlefront II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237950/capsule_616x353.jpg?t=1701356407",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "2.39"
+      },
+      "id": "180"
+    },
+    {
+      "info": {
+        "title": "Monday Night Combat",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63200/capsule_616x353.jpg?t=1447353796",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "181"
+    },
+    {
+      "info": {
+        "title": "Dead Space",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_616x353.jpg?t=1702492799",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "14.99"
+      },
+      "id": "183"
+    },
+    {
+      "info": {
+        "title": "Psychonauts",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3830/capsule_616x353.jpg?t=1731601282",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "184"
+    },
+    {
+      "info": {
+        "title": "Xotic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92600/capsule_616x353.jpg?t=1447354691",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "185"
+    },
+    {
+      "info": {
+        "title": "Prince of Persia: The Sands of Time",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13600/capsule_616x353.jpg?t=1720535333",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.69"
+      },
+      "id": "186"
+    },
+    {
+      "info": {
+        "title": "Bejeweled 3",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/78000/capsule_616x353.jpg?t=1725652822",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "187"
+    },
+    {
+      "info": {
+        "title": "Syberia",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46500/capsule_616x353.jpg?t=1722245366",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.90"
+      },
+      "id": "188"
+    },
+    {
+      "info": {
+        "title": "Age of Wonders II: The Wizard's Throne",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/61510/capsule_616x353.jpg?t=1726490232",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.47"
+      },
+      "id": "189"
+    },
+    {
+      "info": {
+        "title": "Astro Tripper",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/110600/capsule_616x353.jpg?t=1447354543",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "3.66"
+      },
+      "id": "190"
+    },
+    {
+      "info": {
+        "title": "E.Y.E: Divine Cybermancy",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91700/capsule_616x353.jpg?t=1632391647",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "191"
+    },
+    {
+      "info": {
+        "title": "IL-2 Sturmovik: 1946",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/capsule_616x353.jpg?t=1721725925",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.69"
+      },
+      "id": "192"
+    },
+    {
+      "info": {
+        "title": "Call of Duty 2",
+        "thumb": "https://store-images.s-microsoft.com/image/apps.56814.65003753600797265.4ae0b2c1-f1b9-4df7-8bb7-0508976e0f74.b2c18196-2994-48c4-9eab-266edd1a7aa6?q=90&w=480&h=270",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "7.80"
+      },
+      "id": "193"
+    },
+    {
+      "info": {
+        "title": "American Conquest",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115210/capsule_616x353.jpg?t=1685134248",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.75"
+      },
+      "id": "194"
+    },
+    {
+      "info": {
+        "title": "Duke Nukem Forever",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57900/capsule_616x353.jpg?t=1573065360",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.94"
+      },
+      "id": "195"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew:  Shadow at the Water's Edge",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200080/capsule_616x353.jpg?t=1734464277",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.74"
+      },
+      "id": "196"
+    },
+    {
+      "info": {
+        "title": "Far Cry",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13520/capsule_616x353.jpg?t=1602602361",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.19"
+      },
+      "id": "197"
+    },
+    {
+      "info": {
+        "title": "Critical Mass",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105300/capsule_616x353.jpg?t=1447354297",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "198"
+    },
+    {
+      "info": {
+        "title": "Far Cry 2: Fortune's Edition",
+        "thumb": "https://images.gog-statics.com/c6c61caa45125a5dc7916436004f5146999e52bf078aceb16ed0a07b0ecef33a_product_tile_117h.webp",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.39"
+      },
+      "id": "199"
+    },
+    {
+      "info": {
+        "title": "Sacrifice",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38440/capsule_616x353.jpg?t=1670446679",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "200"
+    },
+    {
+      "info": {
+        "title": "Avadon: The Black Fortress",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/112100/capsule_616x353.jpg?t=1724976738",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "201"
+    },
+    {
+      "info": {
+        "title": "The Baconing",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18070/capsule_616x353.jpg?t=1447354527",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "202"
+    },
+    {
+      "info": {
+        "title": "Half-Life Deathmatch: Source",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/360/capsule_616x353.jpg?t=1729701752",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "203"
+    },
+    {
+      "info": {
+        "title": "Dungeon Siege II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39200/capsule_616x353.jpg?t=1683564444",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.78"
+      },
+      "id": "204"
+    },
+    {
+      "info": {
+        "title": "Half-Life: Opposing Force",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/50/capsule_616x353.jpg?t=1729702282",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "208"
+    },
+    {
+      "info": {
+        "title": "SimCity 4 Deluxe Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24780/capsule_616x353.jpg?t=1615244194",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "210"
+    },
+    {
+      "info": {
+        "title": "Darkest Hour: A Hearts of Iron Game",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/73170/capsule_616x353.jpg?t=1669648939",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.66"
+      },
+      "id": "211"
+    },
+    {
+      "info": {
+        "title": "Europa Universalis III Complete",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25800/capsule_616x353.jpg?t=1669909664",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "212"
+    },
+    {
+      "info": {
+        "title": "Sid Meier's Pirates!",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3920/capsule_616x353.jpg?t=1568748025",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "213"
+    },
+    {
+      "info": {
+        "title": "Machinarium",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/capsule_616x353.jpg?t=1729589859",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "214"
+    },
+    {
+      "info": {
+        "title": "The Secret of Monkey Island: Special Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32360/capsule_616x353.jpg?t=1684960488",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.93"
+      },
+      "id": "215"
+    },
+    {
+      "info": {
+        "title": "Hector: Badge of Carnage - Full Series",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/94620/capsule_616x353.jpg?t=1686748461",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "216"
+    },
+    {
+      "info": {
+        "title": "EDGE",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38740/capsule_616x353.jpg?t=1596256602",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.38"
+      },
+      "id": "217"
+    },
+    {
+      "info": {
+        "title": "X3: Terran Conflict",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2820/capsule_616x353.jpg?t=1728401372",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.28"
+      },
+      "id": "218"
+    },
+    {
+      "info": {
+        "title": "Wasteland Angel",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46520/capsule_616x353.jpg?t=1731064487",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.80"
+      },
+      "id": "219"
+    },
+    {
+      "info": {
+        "title": "Cossacks II: Battle for Europe",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890/capsule_616x353.jpg?t=1685134248",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.93"
+      },
+      "id": "220"
+    },
+    {
+      "info": {
+        "title": "Cossacks II: Napoleonic Wars",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115200/capsule_616x353.jpg?t=1685134248",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.93"
+      },
+      "id": "221"
+    },
+    {
+      "info": {
+        "title": "Cossacks: Art of War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4870/capsule_616x353.jpg?t=1685134248",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.93"
+      },
+      "id": "222"
+    },
+    {
+      "info": {
+        "title": "American Conquest: Fight Back",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115220/capsule_616x353.jpg?t=1685134248",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.93"
+      },
+      "id": "223"
+    },
+    {
+      "info": {
+        "title": "Cossacks: European Wars",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4880/capsule_616x353.jpg?t=1685134248",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.92"
+      },
+      "id": "224"
+    },
+    {
+      "info": {
+        "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4500/capsule_616x353.jpg?t=1733838979",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.39"
+      },
+      "id": "225"
+    },
+    {
+      "info": {
+        "title": "ARMA: Cold War Assault",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65790/capsule_616x353.jpg?t=1635942495",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "226"
+    },
+    {
+      "info": {
+        "title": "Demolition Company Gold Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65270/capsule_616x353.jpg?t=1447354500",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "227"
+    },
+    {
+      "info": {
+        "title": "Gatling Gears",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/102810/capsule_616x353.jpg?t=1447354510",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "4.99"
+      },
+      "id": "228"
+    },
+    {
+      "info": {
+        "title": "Hitman 2: Silent Assassin",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_616x353.jpg?t=1732293077",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.76"
+      },
+      "id": "229"
+    },
+    {
+      "info": {
+        "title": "Post Mortem",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46550/capsule_616x353.jpg?t=1570007388",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.63"
+      },
+      "id": "230"
+    },
+    {
+      "info": {
+        "title": "Recettear: An Item Shop's Tale",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70400/capsule_616x353.jpg?t=1447353479",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "3.99"
+      },
+      "id": "231"
+    },
+    {
+      "info": {
+        "title": "Syberia II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46510/capsule_616x353.jpg?t=1722245424",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.90"
+      },
+      "id": "232"
+    },
+    {
+      "info": {
+        "title": "Achron",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/109700/capsule_616x353.jpg?t=1447354589",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "233"
+    },
+    {
+      "info": {
+        "title": "Star Wars Jedi Knight: Jedi Academy",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6020/capsule_616x353.jpg?t=1586462966",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.62"
+      },
+      "id": "234"
+    },
+    {
+      "info": {
+        "title": "Anomaly: Warzone Earth",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/capsule_616x353.jpg?t=1634818526",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "235"
+    },
+    {
+      "info": {
+        "title": "Mirror's Edge",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17410/capsule_616x353.jpg?t=1731356346",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "236"
+    },
+    {
+      "info": {
+        "title": "Freedom Force vs. the Third Reich",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8890/capsule_616x353.jpg?t=1569012954",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "237"
+    },
+    {
+      "info": {
+        "title": "Prince of Persia: The Two Thrones",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13530/capsule_616x353.jpg?t=1720535330",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "238"
+    },
+    {
+      "info": {
+        "title": "Commandos 2: Men of Courage",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6830/capsule_616x353.jpg?t=1730281466",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "239"
+    },
+    {
+      "info": {
+        "title": "Worms Reloaded",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22600/capsule_616x353.jpg?t=1596807362",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "240"
+    },
+    {
+      "info": {
+        "title": "Brothers in Arms: Road to Hill 30",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15190/capsule_616x353.jpg?t=1544534380",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.72"
+      },
+      "id": "242"
+    },
+    {
+      "info": {
+        "title": "Dead Horde",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/27940/capsule_616x353.jpg?t=1601304558",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "243"
+    },
+    {
+      "info": {
+        "title": "Section 8: Prejudice",
+        "thumb": "https://hb.imgix.net/91e03d7c225823793b73eb99694a4183dd7f82ce.jpeg?auto=compress,format&fit=crop&h=84&w=135&s=ba2d755f7cd479114cd9920610e96094",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "244"
+    },
+    {
+      "info": {
+        "title": "Dungeon Siege III",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39160/capsule_616x353.jpg?t=1592491413",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.40"
+      },
+      "id": "246"
+    },
+    {
+      "info": {
+        "title": "Revenge of the Titans",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/93200/capsule_616x353.jpg?t=1593159667",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "247"
+    },
+    {
+      "info": {
+        "title": "F.E.A.R. 3",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21100/capsule_616x353.jpg?t=1666213659",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "248"
+    },
+    {
+      "info": {
+        "title": "Lara Croft and the Guardian of Light",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35130/capsule_616x353.jpg?t=1729009567",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.13"
+      },
+      "id": "249"
+    },
+    {
+      "info": {
+        "title": "Trauma",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98100/capsule_616x353.jpg?t=1572319314",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.74"
+      },
+      "id": "250"
+    },
+    {
+      "info": {
+        "title": "Dungeons and Dragons: Daggerdale",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99100/capsule_616x353.jpg?t=1447354154",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "3.74"
+      },
+      "id": "251"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Rainbow Six Vegas",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13540/capsule_616x353.jpg?t=1692730276",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.15"
+      },
+      "id": "252"
+    },
+    {
+      "info": {
+        "title": "Capsized",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/95300/capsule_616x353.jpg?t=1576348163",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "253"
+    },
+    {
+      "info": {
+        "title": "ARMA: Gold Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65780/capsule_616x353.jpg?t=1640110630",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "255"
+    },
+    {
+      "info": {
+        "title": "Two Worlds II",
+        "thumb": "https://images.greenmangaming.com/1b925b9937c542f69259f0599f833861/7120a34217db47ea88b3d8d405fceec5.jpg",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "256"
+    },
+    {
+      "info": {
+        "title": "Sanctum",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91600/capsule_616x353.jpg?t=1562514720",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.75"
+      },
+      "id": "258"
+    },
+    {
+      "info": {
+        "title": "Bionic Commando: Rearmed",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21680/capsule_616x353.jpg?t=1644282960",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.47"
+      },
+      "id": "259"
+    },
+    {
+      "info": {
+        "title": "Shatter",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20820/capsule_616x353.jpg?t=1726521545",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "260"
+    },
+    {
+      "info": {
+        "title": "Supreme Commander 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40100/capsule_616x353.jpg?t=1636731871",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.50"
+      },
+      "id": "262"
+    },
+    {
+      "info": {
+        "title": "Fallout Tactics: Brotherhood of Steel",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38420/capsule_616x353.jpg?t=1572025647",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "263"
+    },
+    {
+      "info": {
+        "title": "The Clockwork Man",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/111000/capsule_616x353.jpg?t=1447354487",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.39"
+      },
+      "id": "264"
+    },
+    {
+      "info": {
+        "title": "Guild Wars: Eye of the North",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29700/capsule_616x353.jpg?t=1662591518",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "4.99"
+      },
+      "id": "266"
+    },
+    {
+      "info": {
+        "title": "Supreme Ruler: Cold War",
+        "thumb": "https://cdn.fanatical.com/production/product/400x225/5f694aa7-d434-42ed-a526-56753aadee91.jpg",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "6.14"
+      },
+      "id": "267"
+    },
+    {
+      "info": {
+        "title": "Chantelise - A Tale of Two Sisters",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70420/capsule_616x353.jpg?t=1447354436",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.87"
+      },
+      "id": "268"
+    },
+    {
+      "info": {
+        "title": "Age of Wonders Shadow Magic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/61520/capsule_616x353.jpg?t=1725523164",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.96"
+      },
+      "id": "269"
+    },
+    {
+      "info": {
+        "title": "Runaway: A Twist of Fate",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58560/capsule_616x353.jpg?t=1650986999",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.64"
+      },
+      "id": "270"
+    },
+    {
+      "info": {
+        "title": "DEFCON",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1520/capsule_616x353.jpg?t=1734515273",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "271"
+    },
+    {
+      "info": {
+        "title": "Thief: Deadly Shadows",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6980/capsule_616x353.jpg?t=1700763742",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.50"
+      },
+      "id": "272"
+    },
+    {
+      "info": {
+        "title": "Darwinia",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1500/capsule_616x353.jpg?t=1726162911",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.29"
+      },
+      "id": "273"
+    },
+    {
+      "info": {
+        "title": "Runespell: Overture",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/102200/capsule_616x353.jpg?t=1447353993",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "274"
+    },
+    {
+      "info": {
+        "title": "Tobe's Vertical Adventure",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105700/capsule_616x353.jpg?t=1447354389",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "275"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: The Haunted Carousel",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31820/capsule_616x353.jpg?t=1734466086",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "276"
+    },
+    {
+      "info": {
+        "title": "Blood Bowl Legendary Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58520/capsule_616x353.jpg?t=1726152745",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.70"
+      },
+      "id": "277"
+    },
+    {
+      "info": {
+        "title": "Defense Grid: The Awakening",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18500/capsule_616x353.jpg?t=1721059385",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "278"
+    },
+    {
+      "info": {
+        "title": "Men of War: Assault Squad",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/64000/capsule_616x353.jpg?t=1726486492",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.84"
+      },
+      "id": "279"
+    },
+    {
+      "info": {
+        "title": "Hearts of Iron 2 Complete",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22130/capsule_616x353.jpg?t=1669909739",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.39"
+      },
+      "id": "280"
+    },
+    {
+      "info": {
+        "title": "Victoria II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42960/capsule_616x353.jpg?t=1622805098",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "281"
+    },
+    {
+      "info": {
+        "title": "VVVVVV",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70300/capsule_616x353.jpg?t=1704968437",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "282"
+    },
+    {
+      "info": {
+        "title": "Europa Universalis III: Divine Wind",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25808/capsule_616x353.jpg?t=1589879474",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "283"
+    },
+    {
+      "info": {
+        "title": "Alice: Madness Returns",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19680/capsule_616x353.jpg?t=1655743771",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "284"
+    },
+    {
+      "info": {
+        "title": "Trapped Dead",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46540/capsule_616x353.jpg?t=1717597080",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.37"
+      },
+      "id": "286"
+    },
+    {
+      "info": {
+        "title": "Legend of Fae",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/109200/capsule_616x353.jpg?t=1447354420",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "287"
+    },
+    {
+      "info": {
+        "title": "X: Tension",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2850/capsule_616x353.jpg?t=1728401260",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "288"
+    },
+    {
+      "info": {
+        "title": "X: Beyond the Frontier",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2840/capsule_616x353.jpg?t=1728401626",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "289"
+    },
+    {
+      "info": {
+        "title": "S.T.A.L.K.E.R.: Call of Pripyat",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41700/capsule_616x353.jpg?t=1733838900",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.39"
+      },
+      "id": "290"
+    },
+    {
+      "info": {
+        "title": "Defy Gravity Extended",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/96100/capsule_616x353.jpg?t=1562661240",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "291"
+    },
+    {
+      "info": {
+        "title": "Puzzle Agent 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/94590/capsule_616x353.jpg?t=1686675497",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "293"
+    },
+    {
+      "info": {
+        "title": "STAR WARS THE FORCE UNLEASHED II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32500/capsule_616x353.jpg?t=1699055028",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "3.24"
+      },
+      "id": "294"
+    },
+    {
+      "info": {
+        "title": "Cities in Motion",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/73010/capsule_616x353.jpg?t=1710238493",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "295"
+    },
+    {
+      "info": {
+        "title": "Ironclads: Schleswig War 1864",
+        "thumb": "https://us.gamesplanet.com/acache/57/70/1/us/packshot-076d3e8b5029708ed51954c7db6dfc5b.jpg",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "296"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew:  Secrets Can Kill REMASTERED",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42210/capsule_616x353.jpg?t=1734464188",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.74"
+      },
+      "id": "297"
+    },
+    {
+      "info": {
+        "title": "PuzzleQuest: Challenge of the Warlords",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12500/capsule_616x353.jpg?t=1478043255",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "298"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: The Captive Curse",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42220/capsule_616x353.jpg?t=1734464657",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.74"
+      },
+      "id": "299"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: Trail of the Twister",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42230/capsule_616x353.jpg?t=1734469213",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.74"
+      },
+      "id": "300"
+    },
+    {
+      "info": {
+        "title": "Prince of Persia: Warrior Within",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13500/capsule_616x353.jpg?t=1720535324",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "301"
+    },
+    {
+      "info": {
+        "title": "Hitman: Blood Money",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/capsule_616x353.jpg?t=1732283123",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.73"
+      },
+      "id": "302"
+    },
+    {
+      "info": {
+        "title": "Lucid",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/61100/capsule_616x353.jpg?t=1447354413",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "303"
+    },
+    {
+      "info": {
+        "title": "Red Faction: Armageddon",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55110/capsule_616x353.jpg?t=1591105530",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "304"
+    },
+    {
+      "info": {
+        "title": "LEGO Harry Potter: Years 1-4",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21130/capsule_616x353.jpg?t=1728579610",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "2.81"
+      },
+      "id": "305"
+    },
+    {
+      "info": {
+        "title": "Farming Simulator 2011",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/90200/capsule_616x353.jpg?t=1593767375",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.59"
+      },
+      "id": "306"
+    },
+    {
+      "info": {
+        "title": "Nimbus",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/50000/capsule_616x353.jpg?t=1447353658",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.00"
+      },
+      "id": "307"
+    },
+    {
+      "info": {
+        "title": "Brothers in Arms: Earned in Blood",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19800/capsule_616x353.jpg?t=1544534652",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.72"
+      },
+      "id": "309"
+    },
+    {
+      "info": {
+        "title": "Dwarfs!?",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35480/capsule_616x353.jpg?t=1693585480",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.44"
+      },
+      "id": "310"
+    },
+    {
+      "info": {
+        "title": "Sub Command",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2920/capsule_616x353.jpg?t=1573746932",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "311"
+    },
+    {
+      "info": {
+        "title": "Trainz Simulator 12",
+        "thumb": "https://images.greenmangaming.com/e2d4fd00deb746229f3cdcdc2bceb864/e83102a8626d40b98dfe507951e054ea.jpg",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "312"
+    },
+    {
+      "info": {
+        "title": "Vampire: The Masquerade - Bloodlines",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2600/capsule_616x353.jpg?t=1604376441",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "4.39"
+      },
+      "id": "313"
+    },
+    {
+      "info": {
+        "title": "The Next BIG Thing",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58570/capsule_616x353.jpg?t=1651049408",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.64"
+      },
+      "id": "314"
+    },
+    {
+      "info": {
+        "title": "Disciples II: Gallean's Return",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1640/capsule_616x353.jpg?t=1570642005",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.69"
+      },
+      "id": "315"
+    },
+    {
+      "info": {
+        "title": "Hunted: The Demons Forge",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22450/capsule_616x353.jpg?t=1572894032",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "316"
+    },
+    {
+      "info": {
+        "title": "Star Wars Republic Commando",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6000/capsule_616x353.jpg?t=1586465290",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.62"
+      },
+      "id": "317"
+    },
+    {
+      "info": {
+        "title": "Tomb Raider: Anniversary",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/capsule_616x353.jpg?t=1729009457",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.80"
+      },
+      "id": "320"
+    },
+    {
+      "info": {
+        "title": "Company of Heroes: Tales of Valor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20540/capsule_616x353.jpg?t=1711460562",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "321"
+    },
+    {
+      "info": {
+        "title": "Dead Rising 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45740/capsule_616x353.jpg?t=1693277199",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "3.78"
+      },
+      "id": "322"
+    },
+    {
+      "info": {
+        "title": "Beyond Good and Evil",
+        "thumb": "https://images.gog-statics.com/190142155a2ecc45787be16844baf53d77c027cd8755c4eb2cf8caa76fd178ab_product_tile_117h.webp",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.11"
+      },
+      "id": "323"
+    },
+    {
+      "info": {
+        "title": "Red Orchestra: Ostfront 41-45",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1200/capsule_616x353.jpg?t=1551467896",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.88"
+      },
+      "id": "324"
+    },
+    {
+      "info": {
+        "title": "RACE 07",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8600/capsule_616x353.jpg?t=1478078194",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.79"
+      },
+      "id": "325"
+    },
+    {
+      "info": {
+        "title": "Hamilton's Great Adventure",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42140/capsule_616x353.jpg?t=1591085088",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.72"
+      },
+      "id": "326"
+    },
+    {
+      "info": {
+        "title": "Agricultural Simulator 2011: Extended Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92900/capsule_616x353.jpg?t=1703179039",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.60"
+      },
+      "id": "327"
+    },
+    {
+      "info": {
+        "title": "Ironclads: Anglo Russian War 1866",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46830/capsule_616x353.jpg?t=1447353827",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "328"
+    },
+    {
+      "info": {
+        "title": "King's Bounty: Armored Princess",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/capsule_616x353.jpg?t=1721724089",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.19"
+      },
+      "id": "329"
+    },
+    {
+      "info": {
+        "title": "Ironclads: Chincha Islands War 1866",
+        "thumb": "https://images.greenmangaming.com/eb9d335f12d84fa18a0c76cde29be597/caefccb1fa1d465bbbe5643dc0fc9742.jpg",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "330"
+    },
+    {
+      "info": {
+        "title": "Still Life",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46480/capsule_616x353.jpg?t=1616086736",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "331"
+    },
+    {
+      "info": {
+        "title": "Star Raiders",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9970/capsule_616x353.jpg?t=1689356771",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.70"
+      },
+      "id": "333"
+    },
+    {
+      "info": {
+        "title": "Star Wars Empire at War: Gold Pack",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32470/capsule_616x353.jpg?t=1586462434",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "3.24"
+      },
+      "id": "334"
+    },
+    {
+      "info": {
+        "title": "Ancients of Ooga",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91810/capsule_616x353.jpg?t=1447354239",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "335"
+    },
+    {
+      "info": {
+        "title": "MDK 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38460/capsule_616x353.jpg?t=1668714838",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.39"
+      },
+      "id": "336"
+    },
+    {
+      "info": {
+        "title": "Broken Sword 3: The Sleeping Dragon",
+        "thumb": "https://sttc.gamersgate.com/images/product/broken-sword-3-the-sleeping-dragon/cover-180-4fb386.jpg",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.78"
+      },
+      "id": "337"
+    },
+    {
+      "info": {
+        "title": "Atom Zombie Smasher",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55040/capsule_616x353.jpg?t=1586734113",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "338"
+    },
+    {
+      "info": {
+        "title": "Two Worlds II Castle Defense",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7530/capsule_616x353.jpg?t=1577597494",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "340"
+    },
+    {
+      "info": {
+        "title": "X-COM: UFO Defense",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7760/capsule_616x353.jpg?t=1571243544",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "341"
+    },
+    {
+      "info": {
+        "title": "X-COM: Interceptor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7730/capsule_616x353.jpg?t=1571243765",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "342"
+    },
+    {
+      "info": {
+        "title": "X-COM: Enforcer",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7770/capsule_616x353.jpg?t=1571243874",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.19"
+      },
+      "id": "343"
+    },
+    {
+      "info": {
+        "title": "X-COM: Apocalypse",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7660/capsule_616x353.jpg?t=1571243661",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "344"
+    },
+    {
+      "info": {
+        "title": "AaAaAA!!! - A Reckless Disregard for Gravity",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15520/capsule_616x353.jpg?t=1570193105",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "345"
+    },
+    {
+      "info": {
+        "title": "Aquaria",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24420/capsule_616x353.jpg?t=1447351632",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "346"
+    },
+    {
+      "info": {
+        "title": "Cargo! The Quest for Gravity",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41740/capsule_616x353.jpg?t=1671733324",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "347"
+    },
+    {
+      "info": {
+        "title": "X-COM: Terror From the Deep",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7650/capsule_616x353.jpg?t=1568749080",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "348"
+    },
+    {
+      "info": {
+        "title": "Tomb Raider: Legend",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7000/capsule_616x353.jpg?t=1729009388",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.82"
+      },
+      "id": "350"
+    },
+    {
+      "info": {
+        "title": "Overlord",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11450/capsule_616x353.jpg?t=1729270455",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "351"
+    },
+    {
+      "info": {
+        "title": "NightSky",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99700/capsule_616x353.jpg?t=1591749409",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "352"
+    },
+    {
+      "info": {
+        "title": "Risen",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40300/capsule_616x353.jpg?t=1674662941",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "353"
+    },
+    {
+      "info": {
+        "title": "LEGO Star Wars III: The Clone Wars",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32510/capsule_616x353.jpg?t=1699053866",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "3.55"
+      },
+      "id": "354"
+    },
+    {
+      "info": {
+        "title": "Lume",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105100/capsule_616x353.jpg?t=1655210219",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "355"
+    },
+    {
+      "info": {
+        "title": "Painkiller: Black Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39530/capsule_616x353.jpg?t=1709653382",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.79"
+      },
+      "id": "356"
+    },
+    {
+      "info": {
+        "title": "Mr. Robot",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20710/capsule_616x353.jpg?t=1499419184",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "357"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: The Haunting of Castle Malloy",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31910/capsule_616x353.jpg?t=1734466622",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "358"
+    },
+    {
+      "info": {
+        "title": "Sonic Adventure DX",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/71250/capsule_616x353.jpg?t=1721832639",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.95"
+      },
+      "id": "359"
+    },
+    {
+      "info": {
+        "title": "Silent Hunter 5: Battle of the Atlantic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48110/capsule_616x353.jpg?t=1680013163",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "360"
+    },
+    {
+      "info": {
+        "title": "DeathSpank",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18040/capsule_616x353.jpg?t=1615215099",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "361"
+    },
+    {
+      "info": {
+        "title": "Crazy Machines",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18420/capsule_616x353.jpg?t=1447351615",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "363"
+    },
+    {
+      "info": {
+        "title": "Medal of Honor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47790/capsule_616x353.jpg?t=1615244654",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "364"
+    },
+    {
+      "info": {
+        "title": "King Arthur - The Role-playing Wargame",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24400/capsule_616x353.jpg?t=1589881021",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "365"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Splinter Cell Double Agent",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13580/capsule_616x353.jpg?t=1680014047",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.15"
+      },
+      "id": "366"
+    },
+    {
+      "info": {
+        "title": "Depths of Peril",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/23600/capsule_616x353.jpg?t=1724974208",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.69"
+      },
+      "id": "367"
+    },
+    {
+      "info": {
+        "title": "Naval Warfare",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/98500/capsule_616x353.jpg?t=1729828222",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.30"
+      },
+      "id": "368"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Ghost Recon Desert Siege",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13620/capsule_616x353.jpg?t=1680008928",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "369"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Ghost Recon Island Thunder",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13630/capsule_616x353.jpg?t=1680009022",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "370"
+    },
+    {
+      "info": {
+        "title": "The First Templar - Steam Special Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57680/capsule_616x353.jpg?t=1730811936",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "371"
+    },
+    {
+      "info": {
+        "title": "Heroes of Might and Magic V",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15170/capsule_616x353.jpg?t=1692823544",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.44"
+      },
+      "id": "372"
+    },
+    {
+      "info": {
+        "title": "Inside a Star-filled Sky",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/104100/capsule_616x353.jpg?t=1724974371",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "373"
+    },
+    {
+      "info": {
+        "title": "Death and the Fly",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41680/header.jpg?t=1667237443",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "8.49"
+      },
+      "id": "374"
+    },
+    {
+      "info": {
+        "title": "F.E.A.R. 2: Project Origin",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/16450/capsule_616x353.jpg?t=1681232401",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.25"
+      },
+      "id": "375"
+    },
+    {
+      "info": {
+        "title": "Oddworld: Munch's Oddysee",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15740/capsule_616x353.jpg?t=1728644460",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.94"
+      },
+      "id": "376"
+    },
+    {
+      "info": {
+        "title": "Railroad Tycoon 3",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7610/capsule_616x353.jpg?t=1569013196",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.19"
+      },
+      "id": "377"
+    },
+    {
+      "info": {
+        "title": "Prototype",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10150/capsule_616x353.jpg?t=1655760765",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "4.79"
+      },
+      "id": "378"
+    },
+    {
+      "info": {
+        "title": "Ship Simulator Extremes",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48800/capsule_616x353.jpg?t=1710237847",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.97"
+      },
+      "id": "379"
+    },
+    {
+      "info": {
+        "title": "Dangerous Waters",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1600/capsule_616x353.jpg?t=1597950815",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.12"
+      },
+      "id": "380"
+    },
+    {
+      "info": {
+        "title": "Act of War: Direct Action",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2710/capsule_616x353.jpg?t=1727869627",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.69"
+      },
+      "id": "381"
+    },
+    {
+      "info": {
+        "title": "Painkiller Redemption",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65560/capsule_616x353.jpg?t=1709653759",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "382"
+    },
+    {
+      "info": {
+        "title": "Hydrophobia: Prophecy",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92000/capsule_616x353.jpg?t=1447354153",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.24"
+      },
+      "id": "383"
+    },
+    {
+      "info": {
+        "title": "Prince of Persia",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/19980/capsule_616x353.jpg?t=1720535332",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.68"
+      },
+      "id": "384"
+    },
+    {
+      "info": {
+        "title": "Steel Storm: Burning Retribution",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/96200/capsule_616x353.jpg?t=1452482158",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.69"
+      },
+      "id": "385"
+    },
+    {
+      "info": {
+        "title": "The Tiny Bang Story",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/96000/capsule_616x353.jpg?t=1631292999",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "386"
+    },
+    {
+      "info": {
+        "title": "Hearts of Iron III",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25890/capsule_616x353.jpg?t=1669816232",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.59"
+      },
+      "id": "387"
+    },
+    {
+      "info": {
+        "title": "BIT.TRIP RUNNER",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63710/capsule_616x353.jpg?t=1700025629",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "388"
+    },
+    {
+      "info": {
+        "title": "AI War: Fleet Command",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40400/capsule_616x353.jpg?t=1729277497",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "389"
+    },
+    {
+      "info": {
+        "title": "Garshasp: The Monster Slayer",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99400/capsule_616x353.jpg?t=1726791594",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "390"
+    },
+    {
+      "info": {
+        "title": "Star Wars Jedi Knight: Mysteries of the Sith",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32390/capsule_616x353.jpg?t=1586469827",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "391"
+    },
+    {
+      "info": {
+        "title": "Star Wars: Dark Forces",
+        "thumb": "https://hb.imgix.net/699d3cd07d956a5733df6740e29babb4e640b7a7.jpg?auto=compress,format&fit=crop&h=84&w=135&s=4577514454fe008dbcb5c59afb1d0b4d",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "392"
+    },
+    {
+      "info": {
+        "title": "X2: The Threat",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2800/capsule_616x353.jpg?t=1728401290",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "393"
+    },
+    {
+      "info": {
+        "title": "X3: Reunion",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2810/capsule_616x353.jpg?t=1728401354",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.80"
+      },
+      "id": "394"
+    },
+    {
+      "info": {
+        "title": "Dino D-Day",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70000/capsule_616x353.jpg?t=1478380788",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "395"
+    },
+    {
+      "info": {
+        "title": "Gothic 3: Forsaken Gods Enhanced Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65600/capsule_616x353.jpg?t=1725003292",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "396"
+    },
+    {
+      "info": {
+        "title": "Fortix 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45450/capsule_616x353.jpg?t=1447354185",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "397"
+    },
+    {
+      "info": {
+        "title": "Star Wars The Force Unleashed: Ultimate Sith Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32430/capsule_616x353.jpg?t=1699056509",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "3.24"
+      },
+      "id": "398"
+    },
+    {
+      "info": {
+        "title": "Deus Ex: Invisible War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6920/capsule_616x353.jpg?t=1726596797",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.78"
+      },
+      "id": "399"
+    },
+    {
+      "info": {
+        "title": "BEEP",
+        "thumb": "https://images.greenmangaming.com/1779b6c715984460ad6a724c4eba017c/2828a4d8c5e54aaca1918105a1bdb38f.jpg",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.20"
+      },
+      "id": "400"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: Curse of Blackmoor Manor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31830/capsule_616x353.jpg?t=1734460177",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "401"
+    },
+    {
+      "info": {
+        "title": "DeathSpank: Thongs of Virtue",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18050/capsule_616x353.jpg?t=1615197289",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "402"
+    },
+    {
+      "info": {
+        "title": "Beat Hazard",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49600/capsule_616x353.jpg?t=1726645899",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.29"
+      },
+      "id": "403"
+    },
+    {
+      "info": {
+        "title": "Lost Horizon",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40350/capsule_616x353.jpg?t=1645606288",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "405"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew : Danger on Deception Island",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31840/capsule_616x353.jpg?t=1734460917",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "406"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Rainbow Six Vegas 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15120/capsule_616x353.jpg?t=1692730299",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.10"
+      },
+      "id": "407"
+    },
+    {
+      "info": {
+        "title": "Jade Empire: Special Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7110/capsule_616x353.jpg?t=1729270453",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "408"
+    },
+    {
+      "info": {
+        "title": "Yar's Revenge",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/99120/capsule_616x353.jpg?t=1713976636",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.66"
+      },
+      "id": "409"
+    },
+    {
+      "info": {
+        "title": "Overlord II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12810/capsule_616x353.jpg?t=1656372034",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "410"
+    },
+    {
+      "info": {
+        "title": "King's Bounty: Crossworlds",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63910/capsule_616x353.jpg?t=1721724155",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.79"
+      },
+      "id": "412"
+    },
+    {
+      "info": {
+        "title": "Gothic 1",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65540/capsule_616x353.jpg?t=1727858631",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "414"
+    },
+    {
+      "info": {
+        "title": "Hearts of Iron III: Semper Fi",
+        "thumb": "https://hb.imgix.net/1d538402542e8eccc6663b5276b545a0c8b61b74.jpg?auto=compress,format&fit=crop&h=84&w=135&s=87af1a675b732b086cdc6f2e736e65da",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "415"
+    },
+    {
+      "info": {
+        "title": "Silent Hunter: Wolves of the Pacific",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15200/capsule_616x353.jpg?t=1680013334",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "416"
+    },
+    {
+      "info": {
+        "title": "HOARD",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63000/capsule_616x353.jpg?t=1566774619",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "417"
+    },
+    {
+      "info": {
+        "title": "Theatre of War 3: Korea",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63960/capsule_616x353.jpg?t=1681218605",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.05"
+      },
+      "id": "418"
+    },
+    {
+      "info": {
+        "title": "Osmos",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29180/capsule_616x353.jpg?t=1602721579",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "419"
+    },
+    {
+      "info": {
+        "title": "Zombie Pirates",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46850/capsule_616x353.jpg?t=1573655269",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.12"
+      },
+      "id": "420"
+    },
+    {
+      "info": {
+        "title": "Armada 2526",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46790/capsule_616x353.jpg?t=1725031670",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "421"
+    },
+    {
+      "info": {
+        "title": "Nation Red",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39800/capsule_616x353.jpg?t=1669304630",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "422"
+    },
+    {
+      "info": {
+        "title": "Star Wars Starfighter",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32350/capsule_616x353.jpg?t=1586470225",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.01"
+      },
+      "id": "423"
+    },
+    {
+      "info": {
+        "title": "Post Apocalyptic Mayhem",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91900/capsule_616x353.jpg?t=1447354039",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "424"
+    },
+    {
+      "info": {
+        "title": "Cloning Clyde",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91800/capsule_616x353.jpg?t=1447353946",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "425"
+    },
+    {
+      "info": {
+        "title": "Tom Clancy's Ghost Recon",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15300/capsule_616x353.jpg?t=1692818486",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "426"
+    },
+    {
+      "info": {
+        "title": "Drawn: The Painted Tower",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/51060/capsule_616x353.jpg?t=1531436636",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "427"
+    },
+    {
+      "info": {
+        "title": "MX vs ATV Reflex",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55140/capsule_616x353.jpg?t=1727858911",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "429"
+    },
+    {
+      "info": {
+        "title": "Puzzle Dimension",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57200/capsule_616x353.jpg?t=1481198545",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.29"
+      },
+      "id": "430"
+    },
+    {
+      "info": {
+        "title": "Dinner Date",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/94000/capsule_616x353.jpg?t=1447353977",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "431"
+    },
+    {
+      "info": {
+        "title": "Myst: Masterpiece Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63660/capsule_616x353.jpg?t=1671038724",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.19"
+      },
+      "id": "433"
+    },
+    {
+      "info": {
+        "title": "LEGO Batman",
+        "thumb": "https://cdn.fanatical.com/production/product/400x225/105f34ca-7757-47ad-953e-7df7f016741e.jpeg",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "434"
+    },
+    {
+      "info": {
+        "title": "Shadow Harvest: Phantom Ops",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92700/capsule_616x353.jpg?t=1447354028",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "435"
+    },
+    {
+      "info": {
+        "title": "nail'd",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40380/capsule_616x353.jpg?t=1570019041",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "436"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: Secret of the Old Clock",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31880/capsule_616x353.jpg?t=1734463685",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "437"
+    },
+    {
+      "info": {
+        "title": "Heroes of Might and Magic V: Tribes of the East",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15370/capsule_616x353.jpg?t=1692823670",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.10"
+      },
+      "id": "438"
+    },
+    {
+      "info": {
+        "title": "Heroes of Might and Magic V: Hammers of Fate",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15380/capsule_616x353.jpg?t=1721932679",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "439"
+    },
+    {
+      "info": {
+        "title": "The Misadventures of P.B. Winterbottom",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40930/capsule_616x353.jpg?t=1568757248",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "440"
+    },
+    {
+      "info": {
+        "title": "Luxor: 5th Passage",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/60340/capsule_616x353.jpg?t=1688474172",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "441"
+    },
+    {
+      "info": {
+        "title": "Patrician IV - Steam Special Edition",
+        "thumb": "https://hb.imgix.net/f1e811a30763df4711df2f33c73db38acca55d69.jpg?auto=compress,format&fit=crop&h=84&w=135&s=e824d7462b3a6162f9657679383a6867",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "2.24"
+      },
+      "id": "442"
+    },
+    {
+      "info": {
+        "title": "Fate of the World",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80200/capsule_616x353.jpg?t=1710370394",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "443"
+    },
+    {
+      "info": {
+        "title": "Operation Flashpoint: Dragon Rising",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12830/capsule_616x353.jpg?t=1729270706",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "444"
+    },
+    {
+      "info": {
+        "title": "Who's That Flying?!",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57700/capsule_616x353.jpg?t=1730815994",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "445"
+    },
+    {
+      "info": {
+        "title": "A.R.E.S.: Extinction Agenda",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92300/capsule_616x353.jpg?t=1447353830",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "446"
+    },
+    {
+      "info": {
+        "title": "Grotesque Tactics: Evil Heroes",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46450/capsule_616x353.jpg?t=1717595888",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.69"
+      },
+      "id": "447"
+    },
+    {
+      "info": {
+        "title": "Greed Corp",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48950/capsule_616x353.jpg?t=1447353781",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "448"
+    },
+    {
+      "info": {
+        "title": "Tomb Raider: Underworld",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8140/capsule_616x353.jpg?t=1729009496",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.80"
+      },
+      "id": "449"
+    },
+    {
+      "info": {
+        "title": "Serious Sam HD: The Second Encounter",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41014/capsule_616x353.jpg?t=1728688684",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "452"
+    },
+    {
+      "info": {
+        "title": "SPORE Galactic Adventures",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24720/capsule_616x353.jpg?t=1659617138",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "453"
+    },
+    {
+      "info": {
+        "title": "LEGO Star Wars: The Complete Saga",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/32440/capsule_616x353.jpg?t=1604517910",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "3.55"
+      },
+      "id": "455"
+    },
+    {
+      "info": {
+        "title": "Gish",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9500/capsule_616x353.jpg?t=1580493559",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.00"
+      },
+      "id": "456"
+    },
+    {
+      "info": {
+        "title": "Drakensang: The River of Time",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33770/capsule_616x353.jpg?t=1582416479",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "3.99"
+      },
+      "id": "457"
+    },
+    {
+      "info": {
+        "title": "Precipice of Darkness, Episode Two",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18020/capsule_616x353.jpg?t=1447351546",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "458"
+    },
+    {
+      "info": {
+        "title": "King's Bounty: The Legend",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25900/capsule_616x353.jpg?t=1721724331",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.83"
+      },
+      "id": "459"
+    },
+    {
+      "info": {
+        "title": "Wings of Prey",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45300/capsule_616x353.jpg?t=1685004348",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "460"
+    },
+    {
+      "info": {
+        "title": "Making History II: The War of the World",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46770/capsule_616x353.jpg?t=1667063397",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "2.80"
+      },
+      "id": "461"
+    },
+    {
+      "info": {
+        "title": "Zuma's Revenge!",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3620/capsule_616x353.jpg?t=1628007882",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "462"
+    },
+    {
+      "info": {
+        "title": "B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now)",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/92400/capsule_616x353.jpg?t=1447353960",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "463"
+    },
+    {
+      "info": {
+        "title": "The Void",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/37000/capsule_616x353.jpg?t=1671733385",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "464"
+    },
+    {
+      "info": {
+        "title": "Shank",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6120/capsule_616x353.jpg?t=1720817954",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "465"
+    },
+    {
+      "info": {
+        "title": "CreaVures",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49810/capsule_616x353.jpg?t=1475862860",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.42"
+      },
+      "id": "466"
+    },
+    {
+      "info": {
+        "title": "Sniper: Ghost Warrior",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34830/capsule_616x353.jpg?t=1728377870",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.71"
+      },
+      "id": "467"
+    },
+    {
+      "info": {
+        "title": "Delve Deeper",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63800/capsule_616x353.jpg?t=1447353542",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "468"
+    },
+    {
+      "info": {
+        "title": "FlatOut: Ultimate Carnage",
+        "thumb": "https://sttc.gamersgate.com/images/product/flatout-ultimate-carnage/cover-180-0db847.jpg",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "470"
+    },
+    {
+      "info": {
+        "title": "Madballs in Babo:Invasion",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25700/capsule_616x353.jpg?t=1572532849",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "471"
+    },
+    {
+      "info": {
+        "title": "RUSH",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/844040/capsule_616x353.jpg?t=1567474657",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.28"
+      },
+      "id": "472"
+    },
+    {
+      "info": {
+        "title": "Europa Universalis: Rome - Gold Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/23420/capsule_616x353.jpg?t=1669649162",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "473"
+    },
+    {
+      "info": {
+        "title": "Pound of Ground",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33980/capsule_616x353.jpg?t=1635942749",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "474"
+    },
+    {
+      "info": {
+        "title": "Dive to the Titanic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65200/capsule_616x353.jpg?t=1659943067",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "475"
+    },
+    {
+      "info": {
+        "title": "Crazy Machines 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/18400/capsule_616x353.jpg?t=1447351367",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "476"
+    },
+    {
+      "info": {
+        "title": "APOX",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80000/capsule_616x353.jpg?t=1447353810",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "3.74"
+      },
+      "id": "477"
+    },
+    {
+      "info": {
+        "title": "RoboBlitz",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4300/capsule_616x353.jpg?t=1447350932",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.89"
+      },
+      "id": "478"
+    },
+    {
+      "info": {
+        "title": "The Path",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/27000/capsule_616x353.jpg?t=1667032931",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "479"
+    },
+    {
+      "info": {
+        "title": "Flight Control HD",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/62000/capsule_616x353.jpg?t=1447353739",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "480"
+    },
+    {
+      "info": {
+        "title": "Kaptain Brawe: A Brawe New World",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65080/capsule_616x353.jpg?t=1733137282",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.94"
+      },
+      "id": "482"
+    },
+    {
+      "info": {
+        "title": "The Guild II Renaissance",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39680/capsule_616x353.jpg?t=1727858194",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "483"
+    },
+    {
+      "info": {
+        "title": "Sherlock Holmes versus Jack the Ripper",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11190/capsule_616x353.jpg?t=1667209418",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.88"
+      },
+      "id": "484"
+    },
+    {
+      "info": {
+        "title": "Singularity",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42670/capsule_616x353.jpg?t=1707182249",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "4.49"
+      },
+      "id": "485"
+    },
+    {
+      "info": {
+        "title": "Brothers in Arms: Hell's Highway",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15390/capsule_616x353.jpg?t=1544535852",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "2.40"
+      },
+      "id": "486"
+    },
+    {
+      "info": {
+        "title": "Zen Bound 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/61600/capsule_616x353.jpg?t=1447353705",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "487"
+    },
+    {
+      "info": {
+        "title": "Rig n Roll",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46370/capsule_616x353.jpg?t=1681219331",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.75"
+      },
+      "id": "488"
+    },
+    {
+      "info": {
+        "title": "The Polynomial - Space of the music",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/67000/capsule_616x353.jpg?t=1558057515",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.69"
+      },
+      "id": "489"
+    },
+    {
+      "info": {
+        "title": "Cossacks: Back to War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4850/capsule_616x353.jpg?t=1685134248",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.92"
+      },
+      "id": "490"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew: Legend of the Crystal Skull",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/31860/capsule_616x353.jpg?t=1734462308",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "491"
+    },
+    {
+      "info": {
+        "title": "Victoria I Complete",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42980/capsule_616x353.jpg?t=1713346021",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "492"
+    },
+    {
+      "info": {
+        "title": "Bloody Good Time",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2450/capsule_616x353.jpg?t=1682459523",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "493"
+    },
+    {
+      "info": {
+        "title": "Penumbra Overture",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22180/capsule_616x353.jpg?t=1727954565",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "494"
+    },
+    {
+      "info": {
+        "title": "Zeit",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33390/capsule_616x353.jpg?t=1680018058",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "495"
+    },
+    {
+      "info": {
+        "title": "Alien Breed 3: Descent",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22670/capsule_616x353.jpg?t=1668769192",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.80"
+      },
+      "id": "496"
+    },
+    {
+      "info": {
+        "title": "Serious Sam HD: The First Encounter",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41000/capsule_616x353.jpg?t=1728687623",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "497"
+    },
+    {
+      "info": {
+        "title": "Crayon Physics Deluxe",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/26900/capsule_616x353.jpg?t=1667476228",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.25"
+      },
+      "id": "498"
+    },
+    {
+      "info": {
+        "title": "The Guild II - Pirates of the European Seas",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39660/capsule_616x353.jpg?t=1727858390",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "499"
+    },
+    {
+      "info": {
+        "title": "The Guild II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39650/capsule_616x353.jpg?t=1727858290",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "500"
+    },
+    {
+      "info": {
+        "title": "Swords and Soldiers HD",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63500/capsule_616x353.jpg?t=1726254363",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "502"
+    },
+    {
+      "info": {
+        "title": "Clickr",
+        "thumb": "https://cdn.fanatical.com/production/product/400x225/0d2a3e75-0fe6-41df-9fe3-41493d68dc06.jpg",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "3.14"
+      },
+      "id": "503"
+    },
+    {
+      "info": {
+        "title": "Space Empires IV Deluxe",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1610/capsule_616x353.jpg?t=1593724210",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "504"
+    },
+    {
+      "info": {
+        "title": "Sword of the Stars: Complete Collection",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42890/capsule_616x353.jpg?t=1710238345",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "505"
+    },
+    {
+      "info": {
+        "title": "Age of Wonders",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/61500/capsule_616x353.jpg?t=1726489297",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "0.59"
+      },
+      "id": "506"
+    },
+    {
+      "info": {
+        "title": "Gratuitous Space Battles",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41800/capsule_616x353.jpg?t=1478026207",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "507"
+    },
+    {
+      "info": {
+        "title": "Aliens vs. Predator",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10680/capsule_616x353.jpg?t=1603127038",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "508"
+    },
+    {
+      "info": {
+        "title": "BIT.TRIP BEAT",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63700/capsule_616x353.jpg?t=1655156033",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "509"
+    },
+    {
+      "info": {
+        "title": "Sherlock Holmes: The Silver Earring",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11150/capsule_616x353.jpg?t=1667211602",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.88"
+      },
+      "id": "510"
+    },
+    {
+      "info": {
+        "title": "Nexus - The Jupiter Incident",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6420/capsule_616x353.jpg?t=1732705190",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "511"
+    },
+    {
+      "info": {
+        "title": "The Ball",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/35460/capsule_616x353.jpg?t=1693583682",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "513"
+    },
+    {
+      "info": {
+        "title": "Red Faction",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20530/capsule_616x353.jpg?t=1709553303",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "515"
+    },
+    {
+      "info": {
+        "title": "Blue Toad Murder Files: The Mysteries of Little Riddle",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/90400/capsule_616x353.jpg?t=1447353730",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "516"
+    },
+    {
+      "info": {
+        "title": "Alternativa",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33990/capsule_616x353.jpg?t=1635939141",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.29"
+      },
+      "id": "517"
+    },
+    {
+      "info": {
+        "title": "Aura: Fate of the Ages",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65500/capsule_616x353.jpg?t=1727859268",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.82"
+      },
+      "id": "518"
+    },
+    {
+      "info": {
+        "title": "Clones",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/72400/capsule_616x353.jpg?t=1667227140",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.39"
+      },
+      "id": "519"
+    },
+    {
+      "info": {
+        "title": "S.T.A.L.K.E.R.: Clear Sky",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20510/capsule_616x353.jpg?t=1733838943",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "520"
+    },
+    {
+      "info": {
+        "title": "Call of Juarez: Bound in Blood",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21980/capsule_616x353.jpg?t=1685519805",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "521"
+    },
+    {
+      "info": {
+        "title": "Front Mission Evolved",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/43000/capsule_616x353.jpg?t=1478809109",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.49"
+      },
+      "id": "522"
+    },
+    {
+      "info": {
+        "title": "Battlestations: Midway",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6870/capsule_616x353.jpg?t=1592490116",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.97"
+      },
+      "id": "524"
+    },
+    {
+      "info": {
+        "title": "Dark Fall: Lost Souls",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46750/capsule_616x353.jpg?t=1667685123",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "525"
+    },
+    {
+      "info": {
+        "title": "Faerie Solitaire",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/38600/capsule_616x353.jpg?t=1598211907",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.34"
+      },
+      "id": "526"
+    },
+    {
+      "info": {
+        "title": "Quake III Arena",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2200/capsule_616x353.jpg?t=1664229254",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "2.99"
+      },
+      "id": "527"
+    },
+    {
+      "info": {
+        "title": "Commander Keen",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9180/capsule_616x353.jpg?t=1686163312",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "0.90"
+      },
+      "id": "528"
+    },
+    {
+      "info": {
+        "title": "Wolfenstein 3D",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2270/capsule_616x353.jpg?t=1664378515",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "529"
+    },
+    {
+      "info": {
+        "title": "QUAKE II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2320/capsule_616x353.jpg?t=1716567359",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "1.17"
+      },
+      "id": "530"
+    },
+    {
+      "info": {
+        "title": "HeXen: Beyond Heretic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2360/capsule_616x353.jpg?t=1665002863",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "531"
+    },
+    {
+      "info": {
+        "title": "HeXen: Deathkings of the Dark Citadel",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2370/capsule_616x353.jpg?t=1664998557",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "532"
+    },
+    {
+      "info": {
+        "title": "Heretic: Shadow of the Serpent Riders",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2390/capsule_616x353.jpg?t=1664908063",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "533"
+    },
+    {
+      "info": {
+        "title": "HeXen II",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9060/capsule_616x353.jpg?t=1666381851",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "534"
+    },
+    {
+      "info": {
+        "title": "The UnderGarden",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9980/capsule_616x353.jpg?t=1689357064",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.97"
+      },
+      "id": "535"
+    },
+    {
+      "info": {
+        "title": "Star Ruler",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70900/capsule_616x353.jpg?t=1447353543",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "2.24"
+      },
+      "id": "536"
+    },
+    {
+      "info": {
+        "title": "Call of Cthulhu: Dark Corners of the Earth",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22340/capsule_616x353.jpg?t=1573831510",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "1.19"
+      },
+      "id": "537"
+    },
+    {
+      "info": {
+        "title": "Fish Fillets 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33950/capsule_616x353.jpg?t=1725543352",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "538"
+    },
+    {
+      "info": {
+        "title": "URU: Complete Chronicles",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/63650/capsule_616x353.jpg?t=1726776547",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "539"
+    },
+    {
+      "info": {
+        "title": "Armed and Dangerous",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6090/capsule_616x353.jpg?t=1571775437",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.05"
+      },
+      "id": "540"
+    },
+    {
+      "info": {
+        "title": "The Kings' Crusade",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42920/capsule_616x353.jpg?t=1447353607",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "1.79"
+      },
+      "id": "541"
+    },
+    {
+      "info": {
+        "title": "Archon Classic",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65400/capsule_616x353.jpg?t=1572452756",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "542"
+    },
+    {
+      "info": {
+        "title": "Woody Two-Legs: Attack of the Zombie Pirates",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49320/capsule_616x353.jpg?t=1472817696",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "544"
+    },
+    {
+      "info": {
+        "title": "Massive Assault",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/34630/capsule_616x353.jpg?t=1708071798",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "545"
+    },
+    {
+      "info": {
+        "title": "Sherlock Holmes - Nemesis",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11040/capsule_616x353.jpg?t=1667212865",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "0.88"
+      },
+      "id": "546"
+    },
+    {
+      "info": {
+        "title": "Rhythm Zone",
+        "thumb": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-160060-52.jpg",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "9.99"
+      },
+      "id": "547"
+    },
+    {
+      "info": {
+        "title": "Knights of Honor",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25830/capsule_616x353.jpg?t=1713278015",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "1.50"
+      },
+      "id": "548"
+    },
+    {
+      "info": {
+        "title": "Alien Breed 2: Assault",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22650/capsule_616x353.jpg?t=1668766470",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.80"
+      },
+      "id": "549"
+    },
+    {
+      "info": {
+        "title": "Puzzle Bots",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/80300/capsule_616x353.jpg?t=1447353652",
+        "category": "Puzle"
+      },
+      "cheapestPriceEver": {
+        "price": "1.24"
+      },
+      "id": "550"
+    },
+    {
+      "info": {
+        "title": "Lead and Gold: Gangs of the Wild West",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42120/capsule_616x353.jpg?t=1729084001",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.72"
+      },
+      "id": "551"
+    },
+    {
+      "info": {
+        "title": "Blade Kitten",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9940/capsule_616x353.jpg?t=1718331964",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "552"
+    },
+    {
+      "info": {
+        "title": "Trainz: Murchison 2",
+        "thumb": "https://cdn.fanatical.com/production/product/400x225/8d63ff51-3c7d-48e5-8455-24ef09b491d8.jpg",
+        "category": "Estrategia"
+      },
+      "cheapestPriceEver": {
+        "price": "17.99"
+      },
+      "id": "553"
+    },
+    {
+      "info": {
+        "title": "Oddworld: Abe's Oddysee",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15700/capsule_616x353.jpg?t=1728644292",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "0.56"
+      },
+      "id": "554"
+    },
+    {
+      "info": {
+        "title": "Lugaru HD",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/25010/capsule_616x353.jpg?t=1667233211",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "556"
+    },
+    {
+      "info": {
+        "title": "Codename: Panzers - Cold War",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9850/capsule_616x353.jpg?t=1689357130",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "1.49"
+      },
+      "id": "557"
+    },
+    {
+      "info": {
+        "title": "Saints Row 2",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/9480/capsule_616x353.jpg?t=1725434161",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "1.99"
+      },
+      "id": "558"
+    },
+    {
+      "info": {
+        "title": "Jagged Alliance 2 Gold",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1620/capsule_616x353.jpg?t=1572300558",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.89"
+      },
+      "id": "560"
+    },
+    {
+      "info": {
+        "title": "Doc Clock: The Toasted Sandwich of Time",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57800/capsule_616x353.jpg?t=1447352833",
+        "category": "Deportes"
+      },
+      "cheapestPriceEver": {
+        "price": "1.00"
+      },
+      "id": "561"
+    },
+    {
+      "info": {
+        "title": "Alien Breed: Impact",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/22610/capsule_616x353.jpg?t=1726588903",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.74"
+      },
+      "id": "562"
+    },
+    {
+      "info": {
+        "title": "Painkiller: Resurrection",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39560/capsule_616x353.jpg?t=1640265319",
+        "category": "Arcade"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "564"
+    },
+    {
+      "info": {
+        "title": "Multiwinia",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1530/capsule_616x353.jpg?t=1725115652",
+        "category": "Aventura"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "565"
+    },
+    {
+      "info": {
+        "title": "Elven Legacy: Ranger",
+        "thumb": "https://sttc.gamersgate.com/images/product/elven-legacy-ranger/cover-180-e09334.jpg",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.30"
+      },
+      "id": "566"
+    },
+    {
+      "info": {
+        "title": "Elven Legacy: Siege",
+        "thumb": "https://sttc.gamersgate.com/images/product/elven-legacy-siege/cover-180-1101f4.jpg",
+        "category": "Simulación"
+      },
+      "cheapestPriceEver": {
+        "price": "0.30"
+      },
+      "id": "567"
+    },
+    {
+      "info": {
+        "title": "Elven Legacy: Magic",
+        "thumb": "https://sttc.gamersgate.com/images/product/elven-legacy-magic/cover-180-1fb85c.jpg",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.30"
+      },
+      "id": "568"
+    },
+    {
+      "info": {
+        "title": "Turba",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/58400/capsule_616x353.jpg?t=1447353254",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.49"
+      },
+      "id": "571"
+    },
+    {
+      "info": {
+        "title": "Peggle Nights",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3540/capsule_616x353.jpg?t=1615208369",
+        "category": "RPG"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "572"
+    },
+    {
+      "info": {
+        "title": "Bejeweled Twist",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3560/capsule_616x353.jpg?t=1628006452",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "573"
+    },
+    {
+      "info": {
+        "title": "Nancy Drew Dossier: Resorting to Danger!",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42200/capsule_616x353.jpg?t=1734469978",
+        "category": "Acción"
+      },
+      "cheapestPriceEver": {
+        "price": "2.09"
+      },
+      "id": "574"
+    },
+    {
+      "info": {
+        "title": "Diamond Dan",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/70500/capsule_616x353.jpg?t=1527585234",
+        "category": "Plataformas"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "575"
+    },
+    {
+      "info": {
+        "title": "Spellforce - Platinum Edition",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39540/capsule_616x353.jpg?t=1618008861",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.99"
+      },
+      "id": "576"
+    },
+    {
+      "info": {
+        "title": "NyxQuest: Kindred Spirits",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57000/capsule_616x353.jpg?t=1667058781",
+        "category": "Terror"
+      },
+      "cheapestPriceEver": {
+        "price": "0.45"
+      },
+      "id": "577"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "a",
+      "pass": "a"
+    }
+  ]
+}

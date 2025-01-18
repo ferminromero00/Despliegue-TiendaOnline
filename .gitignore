@@ -1,0 +1,5 @@
+terraform/apache-server.key
+dns.txt
+terraform/ca.cer
+terraform/tienda-videojuegos.work.gd.cer
+terraform/tienda-videojuegos.work.gd.key

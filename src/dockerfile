@@ -1,0 +1,117 @@
+# Usar una imagen base de Amazon Linux
+FROM amazonlinux:2
+
+# Actualizar el sistema
+RUN yum update -y
+
+# Instalar Apache, Node.js, Git y otros paquetes necesarios
+RUN yum install -y httpd git mod_ssl curl && \
+    curl -sL https://rpm.nodesource.com/setup_16.x | bash - && \
+    yum install -y nodejs
+
+# Create json directory and set working directory
+RUN mkdir -p /var/www/json
+WORKDIR /var/www
+
+# Install json-server and dependencies locally
+COPY package.json ./
+RUN npm install json-server express https fs
+
+# Create node_modules symlink for global access
+RUN ln -s /var/www/node_modules /usr/local/lib/node_modules
+
+# Ensure https-server.js uses local modules
+COPY https-server.js ./
+RUN sed -i 's/require("json-server")/require(".\/node_modules\/json-server")/' /var/www/https-server.js
+
+# Eliminar archivos existentes en /var/www/html
+RUN rm -rf /var/www/html/*
+
+# Clonar el repositorio
+RUN git clone https://github.com/ferminromero00/DESPLIEGUE-TIENDA-ONLINE.git /var/www/html/DESPLIEGUE-TIENDA-ONLINE
+
+# Mover los archivos necesarios
+RUN mv /var/www/html/DESPLIEGUE-TIENDA-ONLINE/src /var/www/html/ && \
+    mv /var/www/html/DESPLIEGUE-TIENDA-ONLINE/index.html /var/www/html/ && \
+    rm -rf /var/www/html/DESPLIEGUE-TIENDA-ONLINE
+
+# Configurar permisos para la web
+RUN chown -R apache:apache /var/www/html && \
+    chmod -R 755 /var/www/html
+
+# Crear directorio para JSON Server
+RUN mkdir -p /var/www/json && \
+    chown -R apache:apache /var/www/json && \
+    chmod -R 755 /var/www/json
+
+# Copiar certificados SSL
+COPY certificate.crt /etc/pki/tls/certs/
+COPY private.key /etc/pki/tls/private/
+COPY ca_bundle.crt /etc/pki/tls/certs/
+
+# Eliminar archivo de configuración SSL predeterminado que causa el error
+RUN rm -f /etc/httpd/conf.d/ssl.conf
+
+# Crear archivo de configuración SSL para Apache
+RUN cat <<EOF > /etc/httpd/conf.d/ssl-vhost.conf
+<VirtualHost *:443>
+    DocumentRoot "/var/www/html"
+    ServerName tienda-videojuegos.work.gd
+
+    SSLEngine on
+    SSLCertificateFile /etc/pki/tls/certs/certificate.crt
+    SSLCertificateKeyFile /etc/pki/tls/private/private.key
+    SSLCertificateChainFile /etc/pki/tls/certs/ca_bundle.crt
+
+    SSLProtocol all -SSLv3 -TLSv1 -TLSv1.1
+    SSLCipherSuite HIGH:!aNULL:!MD5
+    SSLHonorCipherOrder on
+
+    <Directory "/var/www/html">
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog /var/log/httpd/ssl_error.log
+    CustomLog /var/log/httpd/ssl_access.log combined
+</VirtualHost>
+EOF
+
+# Redirigir HTTP a HTTPS en el puerto 80
+RUN cat <<EOF > /etc/httpd/conf.d/redirect-http-to-https.conf
+<VirtualHost *:80>
+    DocumentRoot "/var/www/html"
+    ServerName tienda-videojuegos.work.gd
+
+    <Directory "/var/www/html">
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    Redirect permanent / https://tienda-videojuegos.work.gd/
+
+    ErrorLog /var/log/httpd/http_error.log
+    CustomLog /var/log/httpd/http_access.log combined
+</VirtualHost>
+EOF
+
+# Configurar el nombre del servidor y escuchar en el puerto 443 y 3000
+RUN echo "ServerName tienda-videojuegos.work.gd" >> /etc/httpd/conf/httpd.conf
+RUN echo "Listen 443" >> /etc/httpd/conf/httpd.conf
+
+# Instalar JSON Server y copiar datos JSON
+RUN npm install -g json-server
+COPY miinfo.json /var/www/json/
+
+# Copiar archivo para envolver JSON Server en HTTPS
+COPY https-server.js /var/www/
+
+# Script de inicio para manejar ambos servicios (Apache y JSON Server)
+COPY start.sh /start.sh
+RUN chmod +x /start.sh
+
+# Exponer los puertos 80, 443 y 3000
+EXPOSE 80 443 3000
+
+# Configuración final para iniciar Apache y JSON Server
+CMD ["/start.sh"]

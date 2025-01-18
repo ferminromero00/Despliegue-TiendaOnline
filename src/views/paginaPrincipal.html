@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Bienvenido!</title>
+    <link rel="stylesheet" href="../css/paginaPrincipal.css">
+    <link rel="icon" href="../img/gamepad-solid.svg" type="image/x-icon">
+</head>
+
+<body>
+
+    <header class="encabezado">
+        <div class="encabezado__contenedor">
+            <h1 class="encabezado__titulo">TIENDA DE VIDEOJUEGOS</h1>
+            <img class="favicon" src="../img/gamepad-solid.svg" alt="favicon">
+            <img class="favicon2" src="../img/gamepad-solid.svg" alt="favicon">
+        </div>
+    </header>
+
+    <nav class="navegacion">
+        <select class="navegacion__desplegable" name="lista_categorias" id="lista_categorias">
+            <option value=""></option>
+        </select>
+        <button class="navegacion__boton navegacion__boton--orden" id="ordenar_btn">Ordenar: Descendente</button>
+        <button class="navegacion__boton navegacion__boton--orden" onclick='window.location.href="../docs/global.html"'>Doc</button>
+        <button class="navegacion__boton navegacion__boton--carrito" id="verCarrito">Ver Carrito</button>
+        <h1 class="navegacion__contador" id="ContadorCarrito"></h1>
+        <button class="navegacion__boton navegacion__boton--cerrar-sesion" id="cerrarSesion">Cerrar Sesión</button>
+    </nav>
+
+    <main class="contenido-principal">
+        <section class="contenido-principal__juegos" id="lista_juegos"></section>
+        <div id="cargando" style="display: none;"></div>
+    </main>
+
+    <script type="module" src="../js/index_Pagina_Principal.js"></script>
+</body>
+
+</html>

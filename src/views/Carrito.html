@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito</title>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <link rel="stylesheet" href="../css/carrito.css">
+</head>
+
+<body>
+    <header>
+        <button onclick='window.location.href="paginaPrincipal.html"'>Volver</button>
+        <button id="vaciar">Vaciar Carrito</button>
+        <button id="cerrarSesion">Cerrar Sesion</button>
+    </header>
+
+    <main>
+        <section id="carrito"></section>
+
+        <section id="section-carrito" class="form-terminar-pedido">
+            <form class="form-terminar-pedido__form" onclick="return false">
+                <label class="form-terminar-pedido__label" for="nom">Nombre</label>
+                <input class="form-terminar-pedido__input" type="text" name="nom" id="nom" required><br>
+
+                <label class="form-terminar-pedido__label" for="correo">Correo</label>
+                <input class="form-terminar-pedido__input" type="email" name="email" id="correo" required><br><br>
+
+                <button class="form-terminar-pedido__button" id="terminar-pedido">Terminar pedido</button>
+            </form>
+        </section>
+
+    </main>
+
+    <script type="module" src="../js/index_Pagina_Principal.js"></script>
+</body>
+
+</html>
