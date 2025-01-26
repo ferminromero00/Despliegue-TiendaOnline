@@ -1,7 +1,7 @@
-# Usar una imagen base de Amazon Linux
+# Usar una imagen base de Amazon Linux 2
 FROM amazonlinux:2
 
-# Actualizar el sistema
+# Actualizar el sistema operativo
 RUN yum update -y
 
 # Instalar Apache, Node.js, Git y otros paquetes necesarios
@@ -9,18 +9,18 @@ RUN yum install -y httpd git mod_ssl curl && \
     curl -sL https://rpm.nodesource.com/setup_16.x | bash - && \
     yum install -y nodejs
 
-# Create json directory and set working directory
+# Crear el directorio json y establecer el directorio de trabajo
 RUN mkdir -p /var/www/json
 WORKDIR /var/www
 
-# Install json-server and dependencies locally
+# Instalar json-server y otras dependencias localmente
 COPY package.json ./
 RUN npm install json-server express https fs
 
-# Create node_modules symlink for global access
+# Crear un enlace simbólico de node_modules para acceso global
 RUN ln -s /var/www/node_modules /usr/local/lib/node_modules
 
-# Ensure https-server.js uses local modules
+# Asegurarse de que https-server.js use los módulos locales
 COPY https-server.js ./
 RUN sed -i 's/require("json-server")/require(".\/node_modules\/json-server")/' /var/www/https-server.js
 
@@ -30,7 +30,7 @@ RUN rm -rf /var/www/html/*
 # Clonar el repositorio
 RUN git clone https://github.com/ferminromero00/Despliegue-TiendaOnline.git /var/www/html/Despliegue-TiendaOnline
 
-# Mover los archivos necesarios
+# Mover los archivos necesarios a /var/www/html
 RUN mv /var/www/html/Despliegue-TiendaOnline/src /var/www/html/ && \
     mv /var/www/html/Despliegue-TiendaOnline/index.html /var/www/html/ && \
     rm -rf /var/www/html/Despliegue-TiendaOnline
@@ -39,7 +39,7 @@ RUN mv /var/www/html/Despliegue-TiendaOnline/src /var/www/html/ && \
 RUN chown -R apache:apache /var/www/html && \
     chmod -R 755 /var/www/html
 
-# Crear directorio para JSON Server
+# Crear directorio para JSON Server y configurar permisos
 RUN mkdir -p /var/www/json && \
     chown -R apache:apache /var/www/json && \
     chmod -R 755 /var/www/json
@@ -95,11 +95,11 @@ RUN cat <<EOF > /etc/httpd/conf.d/redirect-http-to-https.conf
 </VirtualHost>
 EOF
 
-# Configurar el nombre del servidor y escuchar en el puerto 443 y 3000
+# Configurar el nombre del servidor y escuchar en los puertos 443 y 3000
 RUN echo "ServerName tienda-videojuegos.work.gd" >> /etc/httpd/conf/httpd.conf
 RUN echo "Listen 443" >> /etc/httpd/conf/httpd.conf
 
-# Instalar JSON Server y copiar datos JSON
+# Instalar JSON Server globalmente y copiar datos JSON
 RUN npm install -g json-server
 COPY miinfo.json /var/www/json/
 
