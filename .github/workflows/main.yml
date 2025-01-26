@@ -59,21 +59,6 @@ jobs:
       - name: Subir estado de Terraform a S3
         run: aws s3 cp terraform/terraform.tfstate s3://bucketfermin/terraform.tfstate
 
-      - name: Obtener IP pública
-        id: get-ip
-        run: |
-                cd terraform
-                public_ip=$(terraform output -raw instance_public_ip)
-                echo "public_ip=${public_ip}"
-                echo "public_ip=${public_ip}" >> $GITHUB_ENV
-    
-      - name: Actualizar config.js con la nueva IP
-        run: |
-                cd src/js
-                if [ -f config.js ]; then
-                  sed -i "s|export const URL = \".*\"|export const URL = \"${{ env.public_ip }}\"|" config.js
-                fi
-
       - name: JSDoc
         run: sudo npm install -g jsdoc
 
